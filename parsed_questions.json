@@ -1,0 +1,2170 @@
+[
+  {
+    "type": "multiple",
+    "question": "Đường truyền mạng là gì?",
+    "options": [
+      {
+        "text": "Thiết bị dùng để phát sóng Wi-Fi",
+        "correct": false
+      },
+      {
+        "text": "Thiết bị lưu trữ dữ liệu mạng",
+        "correct": false
+      },
+      {
+        "text": "Phương tiện truyền dữ liệu giữa các thiết bị mạng",
+        "correct": true
+      },
+      {
+        "text": "Phần mềm quản lí kết nối mạng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Thiết bị nào dưới đây thường được dùng để kết nối mạng có dây?",
+    "options": [
+      {
+        "text": "Switch",
+        "correct": true
+      },
+      {
+        "text": "Wi-Fi",
+        "correct": false
+      },
+      {
+        "text": "Bluetooth",
+        "correct": false
+      },
+      {
+        "text": "NFC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Loại cáp nào sau đây được sử dụng phổ biến trong mạng LAN?",
+    "options": [
+      {
+        "text": "Cáp quang",
+        "correct": false
+      },
+      {
+        "text": "Cáp đồng trục",
+        "correct": false
+      },
+      {
+        "text": "Cáp xoắn đôi (Twisted Pair)",
+        "correct": true
+      },
+      {
+        "text": "Cáp HDMI",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Tên tiếng Anh của đường truyền không dây là:",
+    "options": [
+      {
+        "text": "Wireless",
+        "correct": true
+      },
+      {
+        "text": "Fiber optic",
+        "correct": false
+      },
+      {
+        "text": "Twisted pair",
+        "correct": false
+      },
+      {
+        "text": "Wired",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một trong những đặc điểm nổi bật của đường truyền không dây là:",
+    "options": [
+      {
+        "text": "Tốc độ luôn cao hơn đường truyền có dây",
+        "correct": false
+      },
+      {
+        "text": "Không cần dùng cáp vật lí",
+        "correct": true
+      },
+      {
+        "text": "Không thể bị nhiễu sóng",
+        "correct": false
+      },
+      {
+        "text": "Chỉ hoạt động trong mạng LAN",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Cáp quang truyền dữ liệu bằng:",
+    "options": [
+      {
+        "text": "Dòng điện",
+        "correct": false
+      },
+      {
+        "text": "Sóng vô tuyến",
+        "correct": false
+      },
+      {
+        "text": "Ánh sáng",
+        "correct": true
+      },
+      {
+        "text": "Từ trường",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong mạng máy tính, thiết bị nào sau đây không đóng vai trò truyền dữ liệu?",
+    "options": [
+      {
+        "text": "Router",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": false
+      },
+      {
+        "text": "Cáp mạng",
+        "correct": false
+      },
+      {
+        "text": "Máy in",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Bluetooth là ví dụ của loại đường truyền:",
+    "options": [
+      {
+        "text": "Có dây",
+        "correct": false
+      },
+      {
+        "text": "Không dây",
+        "correct": true
+      },
+      {
+        "text": "Quang học",
+        "correct": false
+      },
+      {
+        "text": "Đồng trục",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "So với đường truyền có dây, đường truyền không dây có ưu điểm nào nổi bật nhất?",
+    "options": [
+      {
+        "text": "Ít bị nhiễu sóng",
+        "correct": false
+      },
+      {
+        "text": "Tốc độ cao hơn",
+        "correct": false
+      },
+      {
+        "text": "Không bị giới hạn khoảng cách",
+        "correct": false
+      },
+      {
+        "text": "Linh hoạt và tiện lợi trong kết nối",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao mạng LAN thường sử dụng cáp xoắn đôi thay vì cáp quang?",
+    "options": [
+      {
+        "text": "Vì cáp xoắn đôi có tốc độ cao hơn",
+        "correct": false
+      },
+      {
+        "text": "Vì cáp quang dễ nhiễm từ trường",
+        "correct": false
+      },
+      {
+        "text": "Vì cáp xoắn đôi rẻ và dễ lắp đặt hơn",
+        "correct": false
+      },
+      {
+        "text": "Vì cáp xoắn đôi chỉ dùng được cho mạng không dây",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Mục tiêu chính của việc lựa chọn đường truyền mạng phù hợp là gì?",
+    "options": [
+      {
+        "text": "Giảm chi phí bảo trì",
+        "correct": false
+      },
+      {
+        "text": "Tăng tốc độ xử lý của thiết bị đầu cuối",
+        "correct": false
+      },
+      {
+        "text": "Tối ưu hiệu quả kết nối và truyền dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Hạn chế người dùng truy cập",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao cáp quang thường được sử dụng cho đường truyền tốc độ cao?",
+    "options": [
+      {
+        "text": "Vì giá thành rẻ",
+        "correct": false
+      },
+      {
+        "text": "Vì dễ bảo trì",
+        "correct": false
+      },
+      {
+        "text": "Vì không bị ảnh hưởng bởi nhiễu điện từ và tốc độ cao",
+        "correct": true
+      },
+      {
+        "text": "Vì dễ lắp đặt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một công ty muốn thiết kế hệ thống mạng nội bộ ổn định, tiết kiệm chi phí và dễ triển khai. Nên chọn loại đường truyền nào?",
+    "options": [
+      {
+        "text": "Cáp quang",
+        "correct": false
+      },
+      {
+        "text": "Cáp đồng trục",
+        "correct": false
+      },
+      {
+        "text": "Cáp xoắn đôi",
+        "correct": true
+      },
+      {
+        "text": "Wi-Fi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong một khu vực nhiều tầng, bạn muốn kết nối mạng cho nhiều thiết bị mà không thể đi dây mạng. Giải pháp phù hợp là:",
+    "options": [
+      {
+        "text": "Dùng mạng LAN có dây",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng Wi-Fi với bộ phát sóng ở mỗi tầng",
+        "correct": true
+      },
+      {
+        "text": "Dùng cáp quang kéo dài",
+        "correct": false
+      },
+      {
+        "text": "Không thể kết nối mạng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một bạn học sinh muốn truyền file giữa hai điện thoại mà không có Internet. Cách truyền nhanh nhất là:",
+    "options": [
+      {
+        "text": "Gửi qua email",
+        "correct": false
+      },
+      {
+        "text": "Dùng Bluetooth",
+        "correct": true
+      },
+      {
+        "text": "Dùng cáp mạng",
+        "correct": false
+      },
+      {
+        "text": "Chép vào USB",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Nếu muốn kết nối máy tính ở tầng trệt với máy in ở tầng 3 mà đảm bảo tốc độ và ổn định, bạn nên chọn cách nào?",
+    "options": [
+      {
+        "text": "Kéo dây mạng LAN",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng sóng Bluetooth",
+        "correct": false
+      },
+      {
+        "text": "Dùng cáp HDMI",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng Wi-Fi kết hợp bộ khuếch đại sóng",
+        "correct": true
+      },
+      {
+        "text": "Cáp quang là lựa chọn phù hợp nhất vì giá rẻ và dễ lắp đặt trong khuôn viên trường học.Việc sử dụng Wi-Fi giúp học sinh kết nối linh hoạt, đặc biệt là với thiết bị di động như laptop, điện thoại.Có thể kết hợp đường truyền có dây cho phòng máy và đường truyền không dây cho khu vực học sinh sử dụng thiết bị cá nhân.Chỉ cần một thiết bị phát Wi-Fi đặt tại phòng bảo vệ là đủ để phủ sóng toàn bộ khuôn viên trường.",
+        "correct": true
+      },
+      {
+        "text": "Cáp quang là lựa chọn phù hợp nhất vì giá rẻ và dễ lắp đặt trong khuôn viên trường học.",
+        "correct": false
+      },
+      {
+        "text": "Việc sử dụng Wi-Fi giúp học sinh kết nối linh hoạt, đặc biệt là với thiết bị di động như laptop, điện thoại.",
+        "correct": true
+      },
+      {
+        "text": "Có thể kết hợp đường truyền có dây cho phòng máy và đường truyền không dây cho khu vực học sinh sử dụng thiết bị cá nhân.",
+        "correct": true
+      },
+      {
+        "text": "Chỉ cần một thiết bị phát Wi-Fi đặt tại phòng bảo vệ là đủ để phủ sóng toàn bộ khuôn viên trường.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Kết nối mạng tại gia đình",
+    "options": [
+      {
+        "text": "Sử dụng kết nối không dây Wi-Fi sẽ giúp các thiết bị di động truy cập mạng dễ dàng và linh hoạt hơn.",
+        "correct": true
+      },
+      {
+        "text": "Cáp mạng có dây phù hợp để kết nối máy tính để bàn và Smart TV nhằm đảm bảo tốc độ truyền tải ổn định.",
+        "correct": true
+      },
+      {
+        "text": "Mỗi thiết bị trong gia đình cần có một đường truyền Internet riêng biệt để không bị gián đoạn khi truy cập.",
+        "correct": false
+      },
+      {
+        "text": "Nếu modem đặt ở tầng trệt, cần thêm bộ kích sóng (repeater) để mở rộng vùng phủ sóng Wi-Fi lên tầng trên.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Thành phần nào dưới đây thường được sử dụng để kết nối các máy tính trong mạng nội bộ?",
+    "options": [
+      {
+        "text": "Repeater",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": true
+      },
+      {
+        "text": "Modem",
+        "correct": false
+      },
+      {
+        "text": "Hub",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Mô hình mạng phổ biến nhất trong thiết kế mạng nội bộ hiện nay là:",
+    "options": [
+      {
+        "text": "Hình lưới",
+        "correct": false
+      },
+      {
+        "text": "Hình cây",
+        "correct": false
+      },
+      {
+        "text": "Hình sao",
+        "correct": true
+      },
+      {
+        "text": "Hình vòng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong thiết kế mạng, Router có vai trò chính là:",
+    "options": [
+      {
+        "text": "Khuếch đại tín hiệu",
+        "correct": false
+      },
+      {
+        "text": "Chia sẻ máy in",
+        "correct": false
+      },
+      {
+        "text": "Kết nối nhiều mạng với nhau",
+        "correct": true
+      },
+      {
+        "text": "Ghi nhớ mật khẩu người dùng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Địa chỉ IP giúp xác định:",
+    "options": [
+      {
+        "text": "Dung lượng bộ nhớ máy tính",
+        "correct": false
+      },
+      {
+        "text": "Vị trí của thiết bị trong mạng",
+        "correct": true
+      },
+      {
+        "text": "Tên đăng nhập người dùng",
+        "correct": false
+      },
+      {
+        "text": "Tốc độ xử lý của CPU",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong mạng LAN, thiết bị kết nối trung tâm trong mô hình hình sao là:",
+    "options": [
+      {
+        "text": "Máy chủ",
+        "correct": false
+      },
+      {
+        "text": "Router",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": true
+      },
+      {
+        "text": "Máy in",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Việc đánh địa chỉ IP cho các thiết bị trong mạng nhằm:",
+    "options": [
+      {
+        "text": "Phân biệt tên người dùng",
+        "correct": false
+      },
+      {
+        "text": "Truy cập trang web",
+        "correct": false
+      },
+      {
+        "text": "Định danh thiết bị trong mạng",
+        "correct": true
+      },
+      {
+        "text": "Mã hóa dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Để đảm bảo an toàn khi thiết kế mạng, cần quan tâm đến:",
+    "options": [
+      {
+        "text": "Màu sắc thiết bị",
+        "correct": false
+      },
+      {
+        "text": "Độ dài cáp mạng",
+        "correct": false
+      },
+      {
+        "text": "Biện pháp bảo mật và phân quyền",
+        "correct": true
+      },
+      {
+        "text": "Giá thành phần mềm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong một mạng nội bộ, thiết bị được gọi là máy trạm (client) là:",
+    "options": [
+      {
+        "text": "Máy chủ cung cấp dịch vụ",
+        "correct": false
+      },
+      {
+        "text": "Thiết bị định tuyến",
+        "correct": false
+      },
+      {
+        "text": "Máy tính sử dụng tài nguyên từ máy chủ",
+        "correct": true
+      },
+      {
+        "text": "Máy in được chia sẻ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao mô hình mạng hình sao thường được lựa chọn trong thiết kế mạng trường học hoặc văn phòng?",
+    "options": [
+      {
+        "text": "Tiết kiệm băng thông hơn hình vòng",
+        "correct": false
+      },
+      {
+        "text": "Dễ lắp đặt và dễ bảo trì khi có sự cố",
+        "correct": true
+      },
+      {
+        "text": "Có thể hoạt động không cần switch",
+        "correct": false
+      },
+      {
+        "text": "Không cần cấu hình địa chỉ IP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Khi thiết kế mạng cho một khu vực có nhiều thiết bị di động, nên ưu tiên giải pháp nào?",
+    "options": [
+      {
+        "text": "Dùng cáp đồng trục",
+        "correct": false
+      },
+      {
+        "text": "Dùng Wi-Fi kết hợp với bộ mở rộng sóng",
+        "correct": true
+      },
+      {
+        "text": "Chỉ dùng mạng LAN có dây",
+        "correct": false
+      },
+      {
+        "text": "Dùng mô hình mạng hình vòng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Điều gì xảy ra nếu hai thiết bị trong mạng được cấu hình cùng một địa chỉ IP?",
+    "options": [
+      {
+        "text": "Một thiết bị sẽ có tốc độ truy cập cao hơn",
+        "correct": false
+      },
+      {
+        "text": "Hệ thống tự phân bổ địa chỉ mới",
+        "correct": false
+      },
+      {
+        "text": "Gây xung đột địa chỉ, dẫn đến mất kết nối",
+        "correct": true
+      },
+      {
+        "text": "Không ảnh hưởng đến hoạt động mạng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Mục đích của việc phân quyền truy cập trong thiết kế mạng là:",
+    "options": [
+      {
+        "text": "Giúp truy cập Internet nhanh hơn",
+        "correct": false
+      },
+      {
+        "text": "Bảo vệ thông tin và giới hạn quyền truy cập",
+        "correct": true
+      },
+      {
+        "text": "Dễ cấu hình thiết bị",
+        "correct": false
+      },
+      {
+        "text": "Tiết kiệm điện năng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một thư viện trường học có 10 máy tính học sinh và 2 máy tính quản lí. Nên chọn mô hình mạng nào và thiết bị nào để kết nối?",
+    "options": [
+      {
+        "text": "Hình vòng – Modem",
+        "correct": false
+      },
+      {
+        "text": "Hình sao – Switch",
+        "correct": true
+      },
+      {
+        "text": "Hình lưới – Hub",
+        "correct": false
+      },
+      {
+        "text": "Hình cây – Repeater",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Khi thiết kế mạng cho phòng máy tính với yêu cầu kết nối ổn định, chi phí thấp và dễ bảo trì, em nên:",
+    "options": [
+      {
+        "text": "Dùng mô hình lưới với router chuyên dụng",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng mô hình hình sao với switch trung tâm",
+        "correct": true
+      },
+      {
+        "text": "Mỗi máy dùng một đường truyền riêng",
+        "correct": false
+      },
+      {
+        "text": "Chỉ dùng kết nối không dây",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một doanh nghiệp muốn chia sẻ máy in giữa các máy tính trong cùng mạng LAN. Yêu cầu nào sau đây là đúng?",
+    "options": [
+      {
+        "text": "Máy in phải được gắn vào tất cả các máy tính",
+        "correct": false
+      },
+      {
+        "text": "Cần kết nối máy in với máy chủ hoặc thiết bị chia sẻ",
+        "correct": true
+      },
+      {
+        "text": "Phải cấu hình địa chỉ MAC cho máy in",
+        "correct": false
+      },
+      {
+        "text": "Không cần nối mạng vẫn có thể in từ xa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một bạn học sinh muốn thiết kế mạng trong gia đình để kết nối máy tính, điện thoại, TV. Giải pháp phù hợp là:",
+    "options": [
+      {
+        "text": "Dùng mô hình mạng hình sao với router kết nối các thiết bị",
+        "correct": true
+      },
+      {
+        "text": "Chỉ cần modem, không cần thiết bị khác",
+        "correct": false
+      },
+      {
+        "text": "Mỗi thiết bị sử dụng một địa chỉ IP giống nhau",
+        "correct": false
+      },
+      {
+        "text": "Dùng cáp mạng nối từng thiết bị với máy chủ",
+        "correct": false
+      },
+      {
+        "text": "Nên sử dụng mô hình mạng hình sao để dễ quản lý và khắc phục sự cố.Switch là thiết bị phù hợp để kết nối các máy tính trong mạng nội bộ của thư viện.Tất cả các máy tính cần được nối trực tiếp với modem để truy cập Internet.Việc đánh địa chỉ IP tĩnh cho các máy trong thư viện sẽ giúp quản lý mạng hiệu quả hơn.",
+        "correct": true
+      },
+      {
+        "text": "Nên sử dụng mô hình mạng hình sao để dễ quản lý và khắc phục sự cố.",
+        "correct": true
+      },
+      {
+        "text": "Switch là thiết bị phù hợp để kết nối các máy tính trong mạng nội bộ của thư viện.",
+        "correct": true
+      },
+      {
+        "text": "Tất cả các máy tính cần được nối trực tiếp với modem để truy cập Internet.",
+        "correct": false
+      },
+      {
+        "text": "Việc đánh địa chỉ IP tĩnh cho các máy trong thư viện sẽ giúp quản lý mạng hiệu quả hơn.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Thiết kế mạng cho quán cà phê có Wi-Fi:",
+    "options": [
+      {
+        "text": "Chỉ cần một bộ phát Wi-Fi là đủ để phủ sóng toàn bộ không gian quán.",
+        "correct": false
+      },
+      {
+        "text": "Cần sử dụng router để chia sẻ kết nối Internet đến các thiết bị trong mạng.",
+        "correct": true
+      },
+      {
+        "text": "Sử dụng thêm bộ mở rộng sóng (repeater) là cần thiết để tăng phạm vi phủ sóng.",
+        "correct": true
+      },
+      {
+        "text": "Băng thông Internet thuê càng lớn thì số lượng thiết bị truy cập đồng thời càng nhiềuvà ổn định.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Học máy là lĩnh vực của ngành nào?",
+    "options": [
+      {
+        "text": "Toán học",
+        "correct": false
+      },
+      {
+        "text": "Mạng máy tính",
+        "correct": false
+      },
+      {
+        "text": "Trí tuệ nhân tạo",
+        "correct": true
+      },
+      {
+        "text": "Tin học văn phòng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Mục tiêu chính của học máy là gì?",
+    "options": [
+      {
+        "text": "Dự đoán hoặc quyết định từ dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Lập trình các bước thủ công",
+        "correct": false
+      },
+      {
+        "text": "Gắn nhãn dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Gửi email tự động",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong học máy, dữ liệu có nhãn là:",
+    "options": [
+      {
+        "text": "Dữ liệu được gán nhãn hoặc giá trị đích",
+        "correct": true
+      },
+      {
+        "text": "Dữ liệu không có cấu trúc",
+        "correct": false
+      },
+      {
+        "text": "Dữ liệu trống",
+        "correct": false
+      },
+      {
+        "text": "Dữ liệu âm thanh",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Phương pháp học nào sử dụng dữ liệu có nhãn?",
+    "options": [
+      {
+        "text": "Học có giám sát",
+        "correct": true
+      },
+      {
+        "text": "Học không giám sát",
+        "correct": false
+      },
+      {
+        "text": "Học sâu",
+        "correct": false
+      },
+      {
+        "text": "Học truyền thống",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Phân chia dữ liệu thành nhóm là ứng dụng của:",
+    "options": [
+      {
+        "text": "Học có giám sát",
+        "correct": false
+      },
+      {
+        "text": "Học không giám sát",
+        "correct": true
+      },
+      {
+        "text": "Lập trình hướng đối tượng",
+        "correct": false
+      },
+      {
+        "text": "Cơ sở dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Chức năng của học máy trong phân tích thị trường là gì?",
+    "options": [
+      {
+        "text": "Quản lý kho",
+        "correct": false
+      },
+      {
+        "text": "Tính toán thuế",
+        "correct": false
+      },
+      {
+        "text": "Dự báo biến động giá và hỗ trợ chiến lược",
+        "correct": true
+      },
+      {
+        "text": "Tạo bản đồ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Ví dụ nào sau đây thuộc ứng dụng của học có giám sát?",
+    "options": [
+      {
+        "text": "Phân chia khách hàng",
+        "correct": false
+      },
+      {
+        "text": "Nhận dạng chữ viết",
+        "correct": true
+      },
+      {
+        "text": "Xác định chủ đề",
+        "correct": false
+      },
+      {
+        "text": "Khai thác dữ liệu chưa gán nhãn",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một trong những ứng dụng quan trọng của học máy trong chăm sóc sức khỏe là:",
+    "options": [
+      {
+        "text": "Đếm bước đi",
+        "correct": false
+      },
+      {
+        "text": "Chẩn đoán bệnh",
+        "correct": true
+      },
+      {
+        "text": "Quản lý đơn thuốc",
+        "correct": false
+      },
+      {
+        "text": "Tư vấn tài chính",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao học máy không cần lập trình chi tiết từng bước?",
+    "options": [
+      {
+        "text": "Vì nó tự viết mã",
+        "correct": false
+      },
+      {
+        "text": "Vì nó dùng AI",
+        "correct": false
+      },
+      {
+        "text": "Vì mô hình tự học từ dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Vì có bộ nhớ lớn",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vai trò của dữ liệu có nhãn trong học có giám sát là gì?",
+    "options": [
+      {
+        "text": "Không cần thiết",
+        "correct": false
+      },
+      {
+        "text": "Giúp mô hình học và dự đoán chính xác",
+        "correct": true
+      },
+      {
+        "text": "Làm mô hình đơn giản hơn",
+        "correct": false
+      },
+      {
+        "text": "Giảm chi phí tính toán",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Dữ liệu không có nhãn giúp học máy thực hiện điều gì?",
+    "options": [
+      {
+        "text": "Phân tích thông tin ẩn và nhóm dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Tự động hóa gửi mail",
+        "correct": false
+      },
+      {
+        "text": "Gán nhãn ngẫu nhiên",
+        "correct": false
+      },
+      {
+        "text": "Tạo dữ liệu âm thanh",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Lý do học không giám sát phù hợp để phân khúc khách hàng là:",
+    "options": [
+      {
+        "text": "Dữ liệu khách hàng luôn được gán nhãn",
+        "correct": false
+      },
+      {
+        "text": "Không cần mô hình hóa",
+        "correct": false
+      },
+      {
+        "text": "Có thể phân nhóm từ các đặc điểm tương đồng",
+        "correct": true
+      },
+      {
+        "text": "Không cần xử lý dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một công ty muốn phân loại thư rác từ hộp thư đến. Họ nên dùng phương pháp học máy nào?",
+    "options": [
+      {
+        "text": "Học không giám sát",
+        "correct": false
+      },
+      {
+        "text": "Học có giám sát",
+        "correct": true
+      },
+      {
+        "text": "Học sâu",
+        "correct": false
+      },
+      {
+        "text": "Tìm kiếm tuần tự",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Để phát hiện gian lận trong giao dịch tài chính không có sẵn nhãn, nên dùng phương pháp nào?",
+    "options": [
+      {
+        "text": "Học không giám sát",
+        "correct": true
+      },
+      {
+        "text": "Học có giám sát",
+        "correct": false
+      },
+      {
+        "text": "Học tăng cường",
+        "correct": false
+      },
+      {
+        "text": "Xử lý ảnh",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một nhóm nghiên cứu muốn mô hình hóa mối quan hệ giữa đặc điểm bệnh nhân và nguy cơ bệnh tật để đưa ra dự đoán. Phương pháp phù hợp là:",
+    "options": [
+      {
+        "text": "Học không giám sát",
+        "correct": false
+      },
+      {
+        "text": "Học có giám sát",
+        "correct": true
+      },
+      {
+        "text": "Phân loại không giám sát",
+        "correct": false
+      },
+      {
+        "text": "Dò tìm chuỗi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong dịch tự động văn bản giữa các ngôn ngữ, học máy có thể:",
+    "options": [
+      {
+        "text": "Tìm từ điển tương ứng",
+        "correct": false
+      },
+      {
+        "text": "Dùng mẫu câu cố định",
+        "correct": false
+      },
+      {
+        "text": "Học từ dữ liệu dịch để xây dựng mô hình",
+        "correct": true
+      },
+      {
+        "text": "Sử dụng ngữ pháp cơ bản",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Trong một công ty tài chính A, quản lý muốn nâng cấp hiệu quả công việc phân tích của nhân viên công ty nên quyết định sử dụng Học máy để giải quyết. Hãy chọn ý đúng sai cho việc sử dụng Học máy trong phân tích thị trường.",
+    "options": [
+      {
+        "text": "Đưa ra dự báo biến động giá cả, trợ giúp hình thành các chiến lược kinh doanh dựa trên các mô hình dự đoán.Giúp người đầu tư và nhà kinh doanh hiểu rõ hơn về thị trường, hỗ trợ khả năng đưa ra quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.Quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.Tự động hóá quá trình ra quyết định đầu tư.",
+        "correct": true
+      },
+      {
+        "text": "Đưa ra dự báo biến động giá cả, trợ giúp hình thành các chiến lược kinh doanh dựa trên các mô hình dự đoán.",
+        "correct": true
+      },
+      {
+        "text": "Giúp người đầu tư và nhà kinh doanh hiểu rõ hơn về thị trường, hỗ trợ khả năng đưa ra quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.",
+        "correct": true
+      },
+      {
+        "text": "Quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.",
+        "correct": false
+      },
+      {
+        "text": "Tự động hóá quá trình ra quyết định đầu tư.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Một học sinh đang tìm hiểu về phân loại dữ liệu trong học máy. Bạn ấy được yêu cầu xác định vai trò của dữ liệu có nhãn và phương pháp học phù hợp để lọc thư rác.",
+    "options": [
+      {
+        "text": "Dữ liệu có nhãn là dữ liệu đã được gán nhãn hoặc giá trị đầu ra.",
+        "correct": false
+      },
+      {
+        "text": "Học có giám sát sử dụng dữ liệu có nhãn để huấn luyện mô hình.",
+        "correct": true
+      },
+      {
+        "text": "Dữ liệu không có nhãn có thể dùng để dự đoán đầu ra cụ thể.",
+        "correct": false
+      },
+      {
+        "text": "Bài toán lọc thư rác là ứng dụng điển hình của học có giám sát.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Mục tiêu chính của khoa học dữ liệu là gì?",
+    "options": [
+      {
+        "text": "Thu thập dữ liệuTrực quan hóa dữ liệuPhân tích, khai phá và sử dụng tri thức từ dữ liệuLưu trữ dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Thu thập dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Trực quan hóa dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Phân tích, khai phá và sử dụng tri thức từ dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Lưu trữ dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Toán học và thống kê hỗ trợ khoa học dữ liệu bằng cách nào?",
+    "options": [
+      {
+        "text": "Cung cấp các công cụ và kỹ thuật để xử lí, phân tích và khai phá dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Cung cấp cơ sở cho các phương pháp phân tích và khai phá dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Có vai trò quan trọng để hiểu ngữ cảnh và ý nghĩa của dữ liệu.",
+        "correct": false
+      },
+      {
+        "text": "Trực quan hóa dữ liệu, tạo biểu đồ, thiết kế trang web",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Dữ liệu lớn thường được đặc trưng bởi “năm chữ V”. Đó là gì?",
+    "options": [
+      {
+        "text": "Khối lượng (Volumn), vận tốc (Velocity), sự đa dạng (Variety), giá trị (Value), tính xác thực (Veracity)",
+        "correct": true
+      },
+      {
+        "text": "Âm lượng (Volumn), vận tốc (Velocity), sự đa dạng (Variety), giá cả (Value), tính xác thực (Veracity)",
+        "correct": false
+      },
+      {
+        "text": "Khối lượng (Volumn), vận tốc (Velocity), phân loại (Variety), giá trị (Value), tính xác thực (Veracity)",
+        "correct": false
+      },
+      {
+        "text": "Khối lượng (Volumn), vận tốc (Velocity), phân loại (Variety), giá cả (Value), tính xác thực (Veracity)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Khối lượng dữ liệu lớn đề cập đến đặc trưng nào?",
+    "options": [
+      {
+        "text": "Sự đa dạng",
+        "correct": false
+      },
+      {
+        "text": "Tốc độ",
+        "correct": false
+      },
+      {
+        "text": "Kích thước",
+        "correct": true
+      },
+      {
+        "text": "Tính xác thực",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Khoa học máy tính đóng vai trò gì trong khoa học dữ liệu?",
+    "options": [
+      {
+        "text": "Cung cấp các công cụ và kỹ thuật để xử lí, phân tích và khai phá dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Cung cấp cơ sở cho các phương pháp phân tích và khai phá dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Có vai trò quan trọng để hiểu ngữ cảnh và ý nghĩa của dữ liệu.",
+        "correct": false
+      },
+      {
+        "text": "Trực quan hóa dữ liệu, tạo biểu đồ, thiết kế trang web",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "\"Veracity\" trong dữ liệu lớn nói về điều gì?",
+    "options": [
+      {
+        "text": "Tốc độ dữ liệu được tạo ra",
+        "correct": false
+      },
+      {
+        "text": "Nhiều loại dữ liệu khác nhau",
+        "correct": false
+      },
+      {
+        "text": "Tính hữu ích của dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Sự cần thiết phải đảm bảo tính xác thực của dữ liệu",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trực quan hóa dữ liệu nhằm mục đích gì?",
+    "options": [
+      {
+        "text": "Hiểu rõ về nội dung, cấu trúc dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Biểu diễn dữ liệu trực quan, dễ hiểu",
+        "correct": true
+      },
+      {
+        "text": "Xây dựng, duy trì hệ thống tổ chức dữ liệu một cách khoa học",
+        "correct": false
+      },
+      {
+        "text": "Quản lí hiệu quả các nguồn dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Để hiểu rõ giá trị sử dụng của dữ liệu trong thực tiễn, nhà khoa học dữ liệu cần kết hợp với yếu tố nào sau đây?",
+    "options": [
+      {
+        "text": "Thuật toán phân tích",
+        "correct": false
+      },
+      {
+        "text": "Kỹ năng lập trình",
+        "correct": false
+      },
+      {
+        "text": "Tri thức chuyên ngành cụ thể",
+        "correct": true
+      },
+      {
+        "text": "Hệ điều hành phù hợp",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Phân tích dữ liệu nhằm mục đích gì?",
+    "options": [
+      {
+        "text": "Cải thiện quyết định dựa trên dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Biểu diễn dữ liệu trực quan, dễ hiểu",
+        "correct": false
+      },
+      {
+        "text": "Xác định các đặc điểm quan trọng, nhận diện nhóm và xu hướng trong dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Tìm ra mối quan hệ ẩn chứa trong dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Y học cá nhân hóa ứng dụng Khoa học dữ liệu bằng cách nào?",
+    "options": [
+      {
+        "text": "Giới thiệu những sản phẩm hoặc nội dung mà khách hàng có thể quan tâm.",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng bộ dữ liệu lớn về thông tin di truyền và y tế liên quan để đưa ra phát đồ điều trị phù hợp.",
+        "correct": true
+      },
+      {
+        "text": "Xem xét phản hồi khách hàng, có được những thông tin đầy đủ hơn về nhu cầu, sở thích và hành vi của họ giúp cải thiện trải nghiệm.",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng dữ liệu để cung cấp thông tin cho quá trình ra quyết định.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao cần có tri thức chuyên ngành trong khoa học dữ liệu?",
+    "options": [
+      {
+        "text": "Để phân tích, khai phá dữ liệu và xây dựng các mô hình dự đoán.",
+        "correct": false
+      },
+      {
+        "text": "Để hiểu ngữ cảnh, ý nghĩa của dữ liệu và áp dụng kết quả phân tích chính xác",
+        "correct": true
+      },
+      {
+        "text": "Để kiểm tra giả thuyết, tính toán phân phối xác suất,…",
+        "correct": false
+      },
+      {
+        "text": "Để xây dựng các thuật toán xử lí dữ liệu lớn một cách hiệu quả",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Mối liên hệ giữa học máy (machine learning) và khoa học dữ liệu được mô tả như thế nào?",
+    "options": [
+      {
+        "text": "Học máy thay thế toàn bộ khoa học dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Học máy là công cụ trong khoa học dữ liệu để trích xuất tri thức từ dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Không liên quan",
+        "correct": false
+      },
+      {
+        "text": "Khoa học dữ liệu chỉ là một nhánh của học máy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao việc tổ chức và quản lý dữ liệu quan trọng?",
+    "options": [
+      {
+        "text": "Tăng tính trực quan",
+        "correct": false
+      },
+      {
+        "text": "Giảm lỗi người dùng",
+        "correct": false
+      },
+      {
+        "text": "Tạo hạ tầng vững chắc cho phân tích dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Giảm thời gian nhập dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Tại sao trực quan hóa lại hữu ích trong khoa học dữ liệu?",
+    "options": [
+      {
+        "text": "Tạo hình ảnh đẹp từ việc phân tích dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Để chia sẻ dữ liệu hỗ trợ quá trình ra quyết định",
+        "correct": false
+      },
+      {
+        "text": "Giúp người dùng không chuyên dễ hiểu dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Tăng dung lượng tệp lưu trữ dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Khoa học dữ liệu giúp phát hiện gian lận như thế nào?",
+    "options": [
+      {
+        "text": "Tăng cường bảo mật trong các giao dịch tài chính",
+        "correct": false
+      },
+      {
+        "text": "Gửi tin nhắn cảnh báo cho các đối tượng có hoạt động bất thường",
+        "correct": false
+      },
+      {
+        "text": "Phân tích mẫu giao dịch bất thường",
+        "correct": true
+      },
+      {
+        "text": "Khóa các tài khoản được cho là có các giao dịch bất thường.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một doanh nghiệp bán lẻ có thể sử dụng Khoa học dữ liệu như thế nào để tăng doanh thu?",
+    "options": [
+      {
+        "text": "Điều chỉnh giá sản phẩm phù hợp với sự lên xuống của thị trường.",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng hệ thống khuyến nghị dựa vào lịch sử mua hàng",
+        "correct": true
+      },
+      {
+        "text": "Mở thêm nhiều chi nhánh",
+        "correct": false
+      },
+      {
+        "text": "Giảm bớt các nguyên liệu sản xuất tạo ra sản phẩm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong lĩnh vực y tế, khoa học dữ liệu có thể giúp gì cho bác sĩ?",
+    "options": [
+      {
+        "text": "Phán đoán không cần thực hiện các loại xét nghiệm",
+        "correct": false
+      },
+      {
+        "text": "Dự đoán kết quả điều trị dựa trên dữ liệu bệnh nhân",
+        "correct": true
+      },
+      {
+        "text": "Giảm lượng bệnh nhân",
+        "correct": false
+      },
+      {
+        "text": "Bỏ qua bước kiểm tra sức khỏe tổng quát",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Nếu dữ liệu của bạn thuộc nhiều dạng khác nhau như video, văn bản, và âm thanh, đặc trưng nào của dữ liệu lớn phù hợp nhất?",
+    "options": [
+      {
+        "text": "Vận tốc (Velocity)",
+        "correct": false
+      },
+      {
+        "text": "Tính xác thức (Veracity)",
+        "correct": false
+      },
+      {
+        "text": "Sự đa dạng (Variety)",
+        "correct": true
+      },
+      {
+        "text": "Khối lượng (Volume)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một trong những thách thức lớn nhất trong việc xử lý dữ liệu lớn là gì?",
+    "options": [
+      {
+        "text": "Dễ bị mất điện",
+        "correct": false
+      },
+      {
+        "text": "Sự đa dạng và tốc độ sinh ra dữ liệu",
+        "correct": true
+      },
+      {
+        "text": "Giá trị của dữ liệu quá rõ ràng",
+        "correct": false
+      },
+      {
+        "text": "Không thể lưu trữ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Hệ thống khuyến nghị hoạt động hiệu quả nhất khi nào?",
+    "options": [
+      {
+        "text": "Khi có dữ liệu mô tả sản phẩm chính xác",
+        "correct": false
+      },
+      {
+        "text": "Khi người dùng để lại nhiều đánh giá và lịch sử hành vi",
+        "correct": true
+      },
+      {
+        "text": "Khi giảm số lượng sản phẩm",
+        "correct": false
+      },
+      {
+        "text": "Khi có mạng xã hội",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Một công ty thương mại điện tử sử dụng Khoa học dữ liệu để phân tích lịch sử mua sắm và hành vi truy cập của khách hàng nhằm cá nhân hóa sản phẩm đề xuất. Câu hỏi đúng/sai:",
+    "options": [
+      {
+        "text": "Việc sử dụng dữ liệu lịch sử mua sắm giúp doanh nghiệp đề xuất sản phẩm phù hợp với khách hàng.Khoa học dữ liệu nên sử dụng dữ liệu văn bản khi phân tích hành vi người dùng.Trực quan hóa dữ liệu giúp doanh nghiệp dễ dàng nhìn nhận xu hướng và nhu cầu thị trường.Sử dụng công cụ học máy là đủ để ra quyết định kinh doanh mà không cần tri thức chuyên ngành.",
+        "correct": true
+      },
+      {
+        "text": "Việc sử dụng dữ liệu lịch sử mua sắm giúp doanh nghiệp đề xuất sản phẩm phù hợp với khách hàng.",
+        "correct": true
+      },
+      {
+        "text": "Khoa học dữ liệu nên sử dụng dữ liệu văn bản khi phân tích hành vi người dùng.",
+        "correct": false
+      },
+      {
+        "text": "Trực quan hóa dữ liệu giúp doanh nghiệp dễ dàng nhìn nhận xu hướng và nhu cầu thị trường.",
+        "correct": true
+      },
+      {
+        "text": "Sử dụng công cụ học máy là đủ để ra quyết định kinh doanh mà không cần tri thức chuyên ngành.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Một nhà máy sản xuất sử dụng các thuật toán Khoa học dữ liệu để tối ưu hóa hiệu quả sản xuất và phân bổ tài nguyên.",
+    "options": [
+      {
+        "text": "Khoa học dữ liệu có thể hỗ trợ tối ưu hóa dây chuyền sản xuất bằng cách phân tích dữ liệu vận hành.",
+        "correct": true
+      },
+      {
+        "text": "Dữ liệu về sản lượng và năng suất không liên quan đến phân tích khoa học dữ liệu.",
+        "correct": false
+      },
+      {
+        "text": "Các công cụ lập trình và thư viện là một phần của khoa học máy tính được dùng trong phân tích dữ liệu.",
+        "correct": true
+      },
+      {
+        "text": "Mục tiêu của Khoa học dữ liệu là xây dựng hệ thống phần mềm mà không đề cập đến khả năng ra quyết định.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vai trò chính của máy tính trong quy trình khoa học dữ liệu là gì?",
+    "options": [
+      {
+        "text": "Triển khai các dự án khoa học dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Chuyển đổi dữ liệu thành tri thức và thông tin hữu ích",
+        "correct": false
+      },
+      {
+        "text": "Cung cấp sức mạnh tính toán, lưu trữ và tự động hóa",
+        "correct": false
+      },
+      {
+        "text": "Xử lí dữ liệu có kích thước lớn",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Giai đoạn nào sau đây không nằm trong quy trình khoa học dữ liệu?",
+    "options": [
+      {
+        "text": "Thu thập dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Lập trình trang web",
+        "correct": false
+      },
+      {
+        "text": "Khám phá tri thức",
+        "correct": false
+      },
+      {
+        "text": "Báo cáo kết quả",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Phát biểu nào sau đây đúng về vai trò của máy tính trong trực quan hóa dữ liệu?",
+    "options": [
+      {
+        "text": "Máy tính hỗ trợ tạo ra các bảng tính để thống kê dữ liệu một cách trực quan.",
+        "correct": false
+      },
+      {
+        "text": "Máy tính không có vai trò lớn",
+        "correct": false
+      },
+      {
+        "text": "Máy tính hỗ trợ tạo ra các biểu diễn dữ liệu trực quan",
+        "correct": false
+      },
+      {
+        "text": "Máy tính dùng để lưu trữ dữ liệu trực quan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Công nghệ nào cho phép xử lý dữ liệu mà không cần đầu tư phần cứng và những cơ sở hạ tầng đắt tiền?",
+    "options": [
+      {
+        "text": "Hệ điều hành",
+        "correct": false
+      },
+      {
+        "text": "Phần mềm kế toán",
+        "correct": false
+      },
+      {
+        "text": "Điện toán đám mây",
+        "correct": false
+      },
+      {
+        "text": "Ổ đĩa di động",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Máy giải trình tự gene thường chỉ xác định được:",
+    "options": [
+      {
+        "text": "Toàn bộ hệ gene",
+        "correct": false
+      },
+      {
+        "text": "Vị trí của từng gene",
+        "correct": false
+      },
+      {
+        "text": "Các đoạn nucleotide ngắn",
+        "correct": false
+      },
+      {
+        "text": "Vị trí của các đoạn nucleotide trên hệ gene",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Đâu là một ứng dụng của xử lý song song?",
+    "options": [
+      {
+        "text": "Làm sạch dữ liệu và huấn luyện mô hình.",
+        "correct": false
+      },
+      {
+        "text": "Tăng tốc phân tích dữ liệu lớn",
+        "correct": false
+      },
+      {
+        "text": "Cung cấp tài nguyên tính toán",
+        "correct": false
+      },
+      {
+        "text": "Cài đặt phần mềm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Lợi ích chính của việc tự động hóa trong khoa học dữ liệu là gì?",
+    "options": [
+      {
+        "text": "Giúp tăng số lượng nhân viên",
+        "correct": false
+      },
+      {
+        "text": "Tạo ra nhiều báo cáo giấy",
+        "correct": false
+      },
+      {
+        "text": "Giảm lỗi thủ công và tăng tốc xử lý",
+        "correct": false
+      },
+      {
+        "text": "Giảm yêu cầu về dữ liệu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Lưu trữ dữ liệu của HGP gặp thách thức vì:",
+    "options": [
+      {
+        "text": "Dữ liệu dễ mất",
+        "correct": false
+      },
+      {
+        "text": "Thiếu điện",
+        "correct": false
+      },
+      {
+        "text": "Khối lượng dữ liệu quá lớn",
+        "correct": false
+      },
+      {
+        "text": "Không có người lưu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Tính năng nào của máy tính giúp phân tích dữ liệu theo thời gian thực?",
+    "options": [
+      {
+        "text": "Giao diện người dùng đẹp",
+        "correct": false
+      },
+      {
+        "text": "Khả năng xử lý nhanh và mạnh",
+        "correct": false
+      },
+      {
+        "text": "Phần mềm gõ văn bản",
+        "correct": false
+      },
+      {
+        "text": "Màn hình độ phân giải cao",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một lợi ích của phân tích thời gian thực trong dự án khoa học là gì?",
+    "options": [
+      {
+        "text": "Có thêm thời gian nghỉ",
+        "correct": false
+      },
+      {
+        "text": "Giảm độ chính xác",
+        "correct": false
+      },
+      {
+        "text": "Ra quyết định nhanh chóng",
+        "correct": false
+      },
+      {
+        "text": "Không cần kiểm tra kết quả",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Nếu không có máy tính, bước nào sau đây trong phân tích dữ liệu sẽ bị ảnh hưởng nhiều nhất?",
+    "options": [
+      {
+        "text": "Thu thập dữ liệu từ người",
+        "correct": false
+      },
+      {
+        "text": "Vẽ hình minh họa",
+        "correct": false
+      },
+      {
+        "text": "Huấn luyện mô hình học máy",
+        "correct": false
+      },
+      {
+        "text": "Tạo thư mục",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Nếu không có điện toán đám mây, hạn chế lớn nhất với các nhà nghiên cứu nhỏ lẻ là gì?",
+    "options": [
+      {
+        "text": "Không thể gặp nhau",
+        "correct": false
+      },
+      {
+        "text": "Không có phần mềm",
+        "correct": false
+      },
+      {
+        "text": "Thiếu tài nguyên phần cứng để xử lý dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Không hiểu thuật toán",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Lưu trữ hàng trăm gigabyte dữ liệu đòi hỏi:",
+    "options": [
+      {
+        "text": "Bộ nhớ RAM lớn",
+        "correct": false
+      },
+      {
+        "text": "Ổ cứng di động cá nhân",
+        "correct": false
+      },
+      {
+        "text": "Cơ sở hạ tầng lưu trữ quy mô lớn",
+        "correct": false
+      },
+      {
+        "text": "Sách vở",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Việc huấn luyện mô hình học máy yêu cầu nhất điều gì dưới đây?",
+    "options": [
+      {
+        "text": "Hình ảnh đẹp",
+        "correct": false
+      },
+      {
+        "text": "Tài nguyên tính toán lớn và dữ liệu chất lượng",
+        "correct": false
+      },
+      {
+        "text": "Thiết kế dễ nhìn",
+        "correct": false
+      },
+      {
+        "text": "File PDF",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Một nhà khoa học dữ liệu muốn đảm bảo kết quả có thể lặp lại, cần?",
+    "options": [
+      {
+        "text": "Ghi nhớ trong đầu",
+        "correct": false
+      },
+      {
+        "text": "Ghi vào giấy",
+        "correct": false
+      },
+      {
+        "text": "Dùng quy trình tự động và công cụ kiểm thử",
+        "correct": false
+      },
+      {
+        "text": "Tạo ảnh minh họa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Khi xây dựng một mô hình học máy trên dữ liệu lớn, yếu tố nào sau đây cần ưu tiên?",
+    "options": [
+      {
+        "text": "Thiết kế website đẹp",
+        "correct": false
+      },
+      {
+        "text": "Khả năng tính toán và lưu trữ dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Chia sẻ trên mạng xã hội",
+        "correct": false
+      },
+      {
+        "text": "Thiết kế đồ họa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Muốn tăng tốc quá trình huấn luyện mô hình AI, bạn nên áp dụng?",
+    "options": [
+      {
+        "text": "Viết tay dữ liệu",
+        "correct": false
+      },
+      {
+        "text": "Dùng bộ xử lý song song hoặc GPU",
+        "correct": false
+      },
+      {
+        "text": "Thêm hình ảnh nền",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng máy in",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Trong dự án HGP, việc nào sau đây thể hiện rõ tính “tích hợp dữ liệu”?",
+    "options": [
+      {
+        "text": "Một nhóm tự làm tất cả",
+        "correct": false
+      },
+      {
+        "text": "Nhiều tổ chức cùng chia sẻ dữ liệu gene",
+        "correct": false
+      },
+      {
+        "text": "Dùng bảng tính đơn giản",
+        "correct": false
+      },
+      {
+        "text": "Sử dụng máy ảnh",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Vì sao cần sử dụng các thuật toán có khả năng mở rộng khi xử lý dữ liệu di truyền?",
+    "options": [
+      {
+        "text": "Dễ học hơn",
+        "correct": false
+      },
+      {
+        "text": "Dùng cho mọi môn học",
+        "correct": false
+      },
+      {
+        "text": "Đáp ứng quy mô dữ liệu ngày càng lớn",
+        "correct": false
+      },
+      {
+        "text": "Không có lý do",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "multiple",
+    "question": "Nếu bạn cần trực quan hóa xu hướng tăng trưởng qua nhiều năm, bạn nên dùng công cụ nào?",
+    "options": [
+      {
+        "text": "Bộ xử lý văn bản",
+        "correct": false
+      },
+      {
+        "text": "Thư viện trực quan hóa như Matplotlib, Tableau",
+        "correct": false
+      },
+      {
+        "text": "Công cụ chat",
+        "correct": false
+      },
+      {
+        "text": "Máy tính bỏ túi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Một nhóm các nhà khoa học từ nhiều quốc gia cùng nhau tham gia HGP. Mỗi nhóm phụ trách giải mã một phần gene khác nhau, dữ liệu được chia sẻ qua nền tảng số và hợp nhất để hoàn chỉnh bản đồ gene người.",
+    "options": [
+      {
+        "text": "HGP là dự án chỉ do Mỹ thực hiện và không cần sự hợp tác quốc tế.Việc tích hợp dữ liệu từ nhiều nhóm giúp hoàn chỉnh bản đồ gene người nhanh và hiệu quả hơn.Việc dùng nền tảng điện toán đám mây đã giúp các nhà khoa học dễ dàng chia sẻ và truy cập dữ liệu di truyền mọi lúc, mọi nơi.Nếu không có công nghệ lưu trữ và xử lý dữ liệu hiện đại, khối lượng dữ liệu hàng trăm gigabyte của HGP sẽ gây quá tải và gián đoạn quá trình nghiên cứu.",
+        "correct": false
+      },
+      {
+        "text": "HGP là dự án chỉ do Mỹ thực hiện và không cần sự hợp tác quốc tế.",
+        "correct": false
+      },
+      {
+        "text": "Việc tích hợp dữ liệu từ nhiều nhóm giúp hoàn chỉnh bản đồ gene người nhanh và hiệu quả hơn.",
+        "correct": false
+      },
+      {
+        "text": "Việc dùng nền tảng điện toán đám mây đã giúp các nhà khoa học dễ dàng chia sẻ và truy cập dữ liệu di truyền mọi lúc, mọi nơi.",
+        "correct": false
+      },
+      {
+        "text": "Nếu không có công nghệ lưu trữ và xử lý dữ liệu hiện đại, khối lượng dữ liệu hàng trăm gigabyte của HGP sẽ gây quá tải và gián đoạn quá trình nghiên cứu.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Phân tích dữ liệu thời gian thực trong dịch tễ học:Cô Lan là nhà khoa học dữ liệu trong lĩnh vực y tế công cộng. Cô theo dõi sự lây lan của một bệnh truyền nhiễm qua các khu vực và dùng mô hình để dự đoán điểm nóng trong tương lai nhằm đưa ra biện pháp kịp thời.",
+    "options": [
+      {
+        "text": "Cô Lan có thể sử dụng biểu đồ và bản đồ nhiệt để trực quan hóa dữ liệu lây nhiễm theo thời gian thực.",
+        "correct": false
+      },
+      {
+        "text": "Dữ liệu thời gian thực luôn sẵn sàng và không bao giờ bị thiếu sót.",
+        "correct": false
+      },
+      {
+        "text": "Cô Lan xây dựng một dashboard (bảng điều khiển) tương tác để theo dõi sự lan truyền dịch bệnh theo từng khu vực cụ thể.",
+        "correct": false
+      },
+      {
+        "text": "Nếu không có thuật toán có khả năng mở rộng, hệ thống phân tích sẽ bị chậm trễ khi số lượng điểm dữ liệu tăng đột biến theo thời gian.",
+        "correct": false
+      }
+    ]
+  }
+]

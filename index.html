@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <script src="script.js" defer></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body
+    class="mt-8 bg-gray-800 text-gray-200 min-h-screen flex flex-col items-center justify-center"
+  >
+    <div
+      id="quiz-container"
+      class="w-full max-w-3xl bg-gray-200 text-black p-4 rounded-lg shadow-lg"
+    >
+      <h1 class="text-2xl font-bold text-center mb-4">Quiz App</h1>
+      <div id="quiz-content"></div>
+      <button
+        id="submit-btn"
+        class="mt-4 bg-gray-800 text-white px-4 py-2 rounded hover:bg-black"
+      >
+        Submit
+      </button>
+      <button
+        id="retry-btn"
+        class="mt-4 bg-gray-800 text-white px-4 py-2 rounded hover:bg-black hidden"
+      >
+        Retry
+      </button>
+      <div id="result" class="mt-4 text-center text-lg font-bold hidden"></div>
+    </div>
+  </body>
+</html>
