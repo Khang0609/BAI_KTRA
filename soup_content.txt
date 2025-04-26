@@ -1,0 +1,2375 @@
+<h1>
+ Phần I. Câu hỏi trắc nghiệm nhiều lựa chọn A, B, C, D
+</h1>
+<p>
+ <strong>
+  * Mức độ biết
+ </strong>
+</p>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Đường truyền mạng là gì?
+</p>
+<ol>
+ <li>
+  Thiết bị dùng để phát sóng Wi-Fi
+ </li>
+ <li>
+  Thiết bị lưu trữ dữ liệu mạng
+ </li>
+ <li>
+  <strong>
+   Phương tiện truyền dữ liệu giữa các thiết bị mạng
+  </strong>
+ </li>
+ <li>
+  Phần mềm quản lí kết nối mạng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Thiết bị nào dưới đây thường được dùng để kết nối mạng có dây?
+</p>
+<ol>
+ <li>
+  <strong>
+   Switch
+  </strong>
+ </li>
+ <li>
+  Wi-Fi
+ </li>
+ <li>
+  Bluetooth
+ </li>
+ <li>
+  NFC
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Loại cáp nào sau đây được sử dụng phổ biến trong mạng LAN?
+</p>
+<ol>
+ <li>
+  Cáp quang
+ </li>
+ <li>
+  Cáp đồng trục
+ </li>
+ <li>
+  <strong>
+   Cáp xoắn đôi (Twisted Pair)
+  </strong>
+ </li>
+ <li>
+  Cáp HDMI
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Tên tiếng Anh của đường truyền không dây là:
+</p>
+<ol>
+ <li>
+  <strong>
+   Wireless
+  </strong>
+ </li>
+ <li>
+  Fiber optic
+ </li>
+ <li>
+  Twisted pair
+ </li>
+ <li>
+  Wired
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 5.
+ </strong>
+ Một trong những đặc điểm nổi bật của đường truyền không dây là:
+</p>
+<ol>
+ <li>
+  Tốc độ luôn cao hơn đường truyền có dây
+ </li>
+ <li>
+  <strong>
+   Không cần dùng cáp vật lí
+  </strong>
+ </li>
+ <li>
+  Không thể bị nhiễu sóng
+ </li>
+ <li>
+  Chỉ hoạt động trong mạng LAN
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 6.
+ </strong>
+ Cáp quang truyền dữ liệu bằng:
+</p>
+<ol>
+ <li>
+  Dòng điện
+ </li>
+ <li>
+  Sóng vô tuyến
+ </li>
+ <li>
+  <strong>
+   Ánh sáng
+  </strong>
+ </li>
+ <li>
+  Từ trường
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 7.
+ </strong>
+ Trong mạng máy tính, thiết bị nào sau đây không đóng vai trò truyền dữ liệu?
+</p>
+<ol>
+ <li>
+  Router
+ </li>
+ <li>
+  Switch
+ </li>
+ <li>
+  Cáp mạng
+ </li>
+ <li>
+  <strong>
+   Máy in
+  </strong>
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 8.
+ </strong>
+ Bluetooth là ví dụ của loại đường truyền:
+</p>
+<ol>
+ <li>
+  Có dây
+ </li>
+ <li>
+  <strong>
+   Không dây
+  </strong>
+ </li>
+ <li>
+  Quang học
+ </li>
+ <li>
+  Đồng trục
+ </li>
+</ol>
+<h1>
+ Mức độ hiểu
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ So với đường truyền có dây, đường truyền không dây có ưu điểm nào nổi bật nhất?
+</p>
+<ol>
+ <li>
+  Ít bị nhiễu sóng
+ </li>
+ <li>
+  Tốc độ cao hơn
+ </li>
+ <li>
+  Không bị giới hạn khoảng cách
+ </li>
+ <li>
+  <strong>
+   Linh hoạt và tiện lợi trong kết nối
+  </strong>
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Vì sao mạng LAN thường sử dụng cáp xoắn đôi thay vì cáp quang?
+</p>
+<ol>
+ <li>
+  Vì cáp xoắn đôi có tốc độ cao hơn
+ </li>
+ <li>
+  Vì cáp quang dễ nhiễm từ trường
+ </li>
+ <li>
+  Vì cáp xoắn đôi rẻ và dễ lắp đặt hơn
+ </li>
+ <li>
+  Vì cáp xoắn đôi chỉ dùng được cho mạng không dây
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Mục tiêu chính của việc lựa chọn đường truyền mạng phù hợp là gì?
+</p>
+<ol>
+ <li>
+  Giảm chi phí bảo trì
+ </li>
+ <li>
+  Tăng tốc độ xử lý của thiết bị đầu cuối
+ </li>
+ <li>
+  <strong>
+   Tối ưu hiệu quả kết nối và truyền dữ liệu
+  </strong>
+ </li>
+ <li>
+  Hạn chế người dùng truy cập
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Vì sao cáp quang thường được sử dụng cho đường truyền tốc độ cao?
+</p>
+<ol>
+ <li>
+  Vì giá thành rẻ
+ </li>
+ <li>
+  Vì dễ bảo trì
+ </li>
+ <li>
+  <strong>
+   Vì không bị ảnh hưởng bởi nhiễu điện từ và tốc độ cao
+  </strong>
+ </li>
+ <li>
+  Vì dễ lắp đặt
+ </li>
+</ol>
+<h1>
+ Mức độ vận dụng
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Một công ty muốn thiết kế hệ thống mạng nội bộ ổn định, tiết kiệm chi phí và dễ triển khai. Nên chọn loại đường truyền nào?
+</p>
+<ol>
+ <li>
+  Cáp quang
+ </li>
+ <li>
+  Cáp đồng trục
+ </li>
+ <li>
+  <strong>
+   Cáp xoắn đôi
+  </strong>
+ </li>
+ <li>
+  Wi-Fi
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Trong một khu vực nhiều tầng, bạn muốn kết nối mạng cho nhiều thiết bị mà không thể đi dây mạng. Giải pháp phù hợp là:
+</p>
+<ol>
+ <li>
+  Dùng mạng LAN có dây
+ </li>
+ <li>
+  <strong>
+   Sử dụng Wi-Fi với bộ phát sóng ở mỗi tầng
+  </strong>
+ </li>
+ <li>
+  Dùng cáp quang kéo dài
+ </li>
+ <li>
+  Không thể kết nối mạng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Một bạn học sinh muốn truyền file giữa hai điện thoại mà không có Internet. Cách truyền nhanh nhất là:
+</p>
+<ol>
+ <li>
+  Gửi qua email
+ </li>
+ <li>
+  <strong>
+   Dùng Bluetooth
+  </strong>
+ </li>
+ <li>
+  Dùng cáp mạng
+ </li>
+ <li>
+  Chép vào USB
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Nếu muốn kết nối máy tính ở tầng trệt với máy in ở tầng 3 mà đảm bảo tốc độ và ổn định, bạn nên chọn cách nào?
+</p>
+<ol>
+ <li>
+  Kéo dây mạng LAN
+ </li>
+ <li>
+  Sử dụng sóng Bluetooth
+ </li>
+ <li>
+  Dùng cáp HDMI
+ </li>
+ <li>
+  <strong>
+   Sử dụng Wi-Fi kết hợp bộ khuếch đại sóng
+  </strong>
+ </li>
+</ol>
+<h1>
+ Phần II. Câu hỏi trắc nghiệm Đúng/Sai a) b) c) d)
+</h1>
+<h1>
+ Câu 1. Một trường THPT đang triển khai hệ thống mạng nội bộ để phục vụ việc dạy học trực tuyến và truy cập Internet. Trường có nhiều phòng học ở các tầng khác nhau, đồng thời cần đảm bảo tốc độ truy cập ổn định và chi phí hợp lí.
+</h1>
+<ul>
+ <li>
+  <ol>
+   <li>
+    Cáp quang là lựa chọn phù hợp nhất vì giá rẻ và dễ lắp đặt trong khuôn viên trường học.
+   </li>
+   <li>
+    <strong>
+     Việc sử dụng Wi-Fi giúp học sinh kết nối linh hoạt, đặc biệt là với thiết bị di động như laptop, điện thoại.
+    </strong>
+   </li>
+   <li>
+    <strong>
+     Có thể kết hợp đường truyền có dây cho phòng máy và đường truyền không dây cho khu vực học sinh sử dụng thiết bị cá nhân.
+    </strong>
+   </li>
+   <li>
+    Chỉ cần một thiết bị phát Wi-Fi đặt tại phòng bảo vệ là đủ để phủ sóng toàn bộ khuôn viên trường.
+   </li>
+  </ol>
+ </li>
+</ul>
+<h1>
+ Câu 2. Kết nối mạng tại gia đình
+</h1>
+<p>
+ Một gia đình có 4 thành viên, sử dụng nhiều thiết bị như máy tính để bàn, laptop, điện thoại thông minh, và ti vi thông minh. Họ muốn kết nối Internet ổn định cho học tập, làm việc và giải trí.
+</p>
+<p>
+ Xác định câu Đúng/Sai về việc thiết lập hệ thống mạng gia đình:
+</p>
+<ol>
+ <li>
+  <strong>
+   Sử dụng kết nối không dây Wi-Fi sẽ giúp các thiết bị di động truy cập mạng dễ dàng và linh hoạt hơn.
+  </strong>
+ </li>
+ <li>
+  <strong>
+   Cáp mạng có dây phù hợp để kết nối máy tính để bàn và Smart TV nhằm đảm bảo tốc độ truyền tải ổn định.
+  </strong>
+ </li>
+ <li>
+  Mỗi thiết bị trong gia đình cần có một đường truyền Internet riêng biệt để không bị gián đoạn khi truy cập.
+ </li>
+ <li>
+  <strong>
+   Nếu modem đặt ở tầng trệt, cần thêm bộ kích sóng (repeater) để mở rộng vùng phủ sóng Wi-Fi lên tầng trên.
+  </strong>
+ </li>
+</ol>
+<h1>
+ Phần III. Tự luận
+</h1>
+<p>
+ Em hãy trình bày ưu điểm và nhược điểm của ba loại đường truyền phổ biến: cáp xoắn đôi, cáp quang và kết nối không dây.
+</p>
+<h1>
+ Gợi ý đáp án:
+</h1>
+<ul>
+ <li>
+  <ul>
+   <li>
+    Cáp xoắn đôi: giá thành rẻ, dễ lắp đặt, phù hợp với mạng LAN nhỏ; tuy nhiên, khoảng cách truyền ngắn, dễ nhiễu điện từ.
+   </li>
+   <li>
+    Cáp quang: tốc độ cao, truyền xa, không bị nhiễu điện từ; nhưng chi phí cao, đòi hỏi thiết bị chuyên dụng và khó lắp đặt.
+   </li>
+   <li>
+    Không dây (Wi-Fi, Bluetooth): linh hoạt, tiện lợi, không cần dây dẫn; nhưng dễ bị nhiễu sóng, tốc độ có thể không ổn định và phạm vi giới hạn.
+   </li>
+  </ul>
+ </li>
+</ul>
+<h1>
+ Phần I. Câu hỏi trắc nghiệm nhiều lựa chọn A, B, C, D
+</h1>
+<p>
+ <strong>
+  * Mức độ biết
+ </strong>
+</p>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Thành phần nào dưới đây thường được sử dụng để kết nối các máy tính trong mạng nội bộ?
+</p>
+<ol>
+ <li>
+  Repeater
+ </li>
+ <li>
+  <strong>
+   Switch
+  </strong>
+ </li>
+ <li>
+  Modem
+ </li>
+ <li>
+  Hub
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Mô hình mạng phổ biến nhất trong thiết kế mạng nội bộ hiện nay là:
+</p>
+<ol>
+ <li>
+  Hình lưới
+ </li>
+ <li>
+  Hình cây
+ </li>
+ <li>
+  <strong>
+   Hình sao
+  </strong>
+ </li>
+ <li>
+  Hình vòng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Trong thiết kế mạng, Router có vai trò chính là:
+</p>
+<ol>
+ <li>
+  Khuếch đại tín hiệu
+ </li>
+ <li>
+  Chia sẻ máy in
+ </li>
+ <li>
+  <strong>
+   Kết nối nhiều mạng với nhau
+  </strong>
+ </li>
+ <li>
+  Ghi nhớ mật khẩu người dùng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Địa chỉ IP giúp xác định:
+</p>
+<ol>
+ <li>
+  Dung lượng bộ nhớ máy tính
+ </li>
+ <li>
+  <strong>
+   Vị trí của thiết bị trong mạng
+  </strong>
+ </li>
+ <li>
+  Tên đăng nhập người dùng
+ </li>
+ <li>
+  Tốc độ xử lý của CPU
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 5.
+ </strong>
+ Trong mạng LAN, thiết bị kết nối trung tâm trong mô hình hình sao là:
+</p>
+<ol>
+ <li>
+  Máy chủ
+ </li>
+ <li>
+  Router
+ </li>
+ <li>
+  <strong>
+   Switch
+  </strong>
+ </li>
+ <li>
+  Máy in
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 6.
+ </strong>
+ Việc đánh địa chỉ IP cho các thiết bị trong mạng nhằm:
+</p>
+<ol>
+ <li>
+  Phân biệt tên người dùng
+ </li>
+ <li>
+  Truy cập trang web
+ </li>
+ <li>
+  <strong>
+   Định danh thiết bị trong mạng
+  </strong>
+ </li>
+ <li>
+  Mã hóa dữ liệu
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 7.
+ </strong>
+ Để đảm bảo an toàn khi thiết kế mạng, cần quan tâm đến:
+</p>
+<ol>
+ <li>
+  Màu sắc thiết bị
+ </li>
+ <li>
+  Độ dài cáp mạng
+ </li>
+ <li>
+  <strong>
+   Biện pháp bảo mật và phân quyền
+  </strong>
+ </li>
+ <li>
+  Giá thành phần mềm
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 8.
+ </strong>
+ Trong một mạng nội bộ, thiết bị được gọi là máy trạm (client) là:
+</p>
+<ol>
+ <li>
+  Máy chủ cung cấp dịch vụ
+ </li>
+ <li>
+  Thiết bị định tuyến
+ </li>
+ <li>
+  <strong>
+   Máy tính sử dụng tài nguyên từ máy chủ
+  </strong>
+ </li>
+ <li>
+  Máy in được chia sẻ
+ </li>
+</ol>
+<h1>
+ Mức độ hiểu
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Vì sao mô hình mạng hình sao thường được lựa chọn trong thiết kế mạng trường học hoặc văn phòng?
+</p>
+<ol>
+ <li>
+  Tiết kiệm băng thông hơn hình vòng
+ </li>
+ <li>
+  <strong>
+   Dễ lắp đặt và dễ bảo trì khi có sự cố
+  </strong>
+ </li>
+ <li>
+  Có thể hoạt động không cần switch
+ </li>
+ <li>
+  Không cần cấu hình địa chỉ IP
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Khi thiết kế mạng cho một khu vực có nhiều thiết bị di động, nên ưu tiên giải pháp nào?
+</p>
+<ol>
+ <li>
+  Dùng cáp đồng trục
+ </li>
+ <li>
+  <strong>
+   Dùng Wi-Fi kết hợp với bộ mở rộng sóng
+  </strong>
+ </li>
+ <li>
+  Chỉ dùng mạng LAN có dây
+ </li>
+ <li>
+  Dùng mô hình mạng hình vòng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Điều gì xảy ra nếu hai thiết bị trong mạng được cấu hình cùng một địa chỉ IP?
+</p>
+<ol>
+ <li>
+  Một thiết bị sẽ có tốc độ truy cập cao hơn
+ </li>
+ <li>
+  Hệ thống tự phân bổ địa chỉ mới
+ </li>
+ <li>
+  <strong>
+   Gây xung đột địa chỉ, dẫn đến mất kết nối
+  </strong>
+ </li>
+ <li>
+  Không ảnh hưởng đến hoạt động mạng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Mục đích của việc phân quyền truy cập trong thiết kế mạng là:
+</p>
+<ol>
+ <li>
+  Giúp truy cập Internet nhanh hơn
+ </li>
+ <li>
+  <strong>
+   Bảo vệ thông tin và giới hạn quyền truy cập
+  </strong>
+ </li>
+ <li>
+  Dễ cấu hình thiết bị
+ </li>
+ <li>
+  Tiết kiệm điện năng
+ </li>
+</ol>
+<h1>
+ Mức độ vận dụng
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Một thư viện trường học có 10 máy tính học sinh và 2 máy tính quản lí. Nên chọn mô hình mạng nào và thiết bị nào để kết nối?
+</p>
+<ol>
+ <li>
+  Hình vòng – Modem
+ </li>
+ <li>
+  <strong>
+   Hình sao – Switch
+  </strong>
+ </li>
+ <li>
+  Hình lưới – Hub
+ </li>
+ <li>
+  Hình cây – Repeater
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Khi thiết kế mạng cho phòng máy tính với yêu cầu kết nối ổn định, chi phí thấp và dễ bảo trì, em nên:
+</p>
+<ol>
+ <li>
+  Dùng mô hình lưới với router chuyên dụng
+ </li>
+ <li>
+  <strong>
+   Sử dụng mô hình hình sao với switch trung tâm
+  </strong>
+ </li>
+ <li>
+  Mỗi máy dùng một đường truyền riêng
+ </li>
+ <li>
+  Chỉ dùng kết nối không dây
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Một doanh nghiệp muốn chia sẻ máy in giữa các máy tính trong cùng mạng LAN. Yêu cầu nào sau đây là đúng?
+</p>
+<ol>
+ <li>
+  Máy in phải được gắn vào tất cả các máy tính
+ </li>
+ <li>
+  <strong>
+   Cần kết nối máy in với máy chủ hoặc thiết bị chia sẻ
+  </strong>
+ </li>
+ <li>
+  Phải cấu hình địa chỉ MAC cho máy in
+ </li>
+ <li>
+  Không cần nối mạng vẫn có thể in từ xa
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Một bạn học sinh muốn thiết kế mạng trong gia đình để kết nối máy tính, điện thoại, TV. Giải pháp phù hợp là:
+</p>
+<ol>
+ <li>
+  <strong>
+   Dùng mô hình mạng hình sao với router kết nối các thiết bị
+  </strong>
+ </li>
+ <li>
+  Chỉ cần modem, không cần thiết bị khác
+ </li>
+ <li>
+  Mỗi thiết bị sử dụng một địa chỉ IP giống nhau
+ </li>
+ <li>
+  Dùng cáp mạng nối từng thiết bị với máy chủ
+ </li>
+</ol>
+<h1>
+ Phần II. Câu hỏi trắc nghiệm Đúng/Sai a) b) c) d) Câu 1. Thiết kế mạng cho thư viện trường học:
+</h1>
+<p>
+ Một thư viện trường học chuẩn bị triển khai hệ thống mạng nội bộ để phục vụ tra cứu tài liệu, quản lý sách và truy cập Internet. Thư viện có 15 máy tính cho học sinh sử dụng và 5 máy dành cho nhân viên quản lý.
+</p>
+<p>
+ Xác định câu Đúng/Sai về những quyết định trong thiết kế mạng:
+</p>
+<ul>
+ <li>
+  <ol>
+   <li>
+    <strong>
+     Nên sử dụng mô hình mạng hình sao để dễ quản lý và khắc phục sự cố.
+    </strong>
+   </li>
+   <li>
+    <strong>
+     Switch là thiết bị phù hợp để kết nối các máy tính trong mạng nội bộ của thư viện.
+    </strong>
+   </li>
+   <li>
+    Tất cả các máy tính cần được nối trực tiếp với modem để truy cập Internet.
+   </li>
+   <li>
+    <strong>
+     Việc đánh địa chỉ IP tĩnh cho các máy trong thư viện sẽ giúp quản lý mạng hiệu quả hơn
+    </strong>
+    .
+   </li>
+  </ol>
+ </li>
+</ul>
+<h1>
+ Câu 2. Thiết kế mạng cho quán cà phê có Wi-Fi:
+</h1>
+<p>
+ Một quán cà phê muốn cung cấp Wi-Fi miễn phí cho khách hàng. Không gian quán gồm hai tầng, tường dày, có nhiều thiết bị di động truy cập mạng cùng lúc. Chủ quán thuê một đường truyền cáp quang tốc độ cao.
+</p>
+<p>
+ Xác định câu Đúng/Sai về các quyết định thiết kế mạng phù hợp:
+</p>
+<ol>
+ <li>
+  Chỉ cần một bộ phát Wi-Fi là đủ để phủ sóng toàn bộ không gian quán.
+ </li>
+ <li>
+  <strong>
+   Cần sử dụng router để chia sẻ kết nối Internet đến các thiết bị trong mạng.
+  </strong>
+ </li>
+ <li>
+  <strong>
+   Sử dụng thêm bộ mở rộng sóng (repeater) là cần thiết để tăng phạm vi phủ sóng.
+  </strong>
+ </li>
+ <li>
+  <strong>
+   Băng thông Internet thuê càng lớn thì số lượng thiết bị truy cập đồng thời càng nhiều
+  </strong>
+  và ổn định.
+ </li>
+</ol>
+<h1>
+ Phần III. Tự luận
+</h1>
+<p>
+ Em hãy trình bày các bước cơ bản khi thiết kế một mạng LAN cho phòng học tin học gồm 20 máy tính. Nêu rõ vai trò của các thiết bị chính được sử dụng trong thiết kế mạng.
+</p>
+<h1>
+ Gợi ý đáp án:
+</h1>
+<ul>
+ <li>
+  <ul>
+   <li>
+    Bước 1: Xác định nhu cầu sử dụng và số lượng máy cần kết nối.
+   </li>
+   <li>
+    Bước 2: Chọn mô hình mạng phù hợp (thường là mô hình hình sao).
+   </li>
+   <li>
+    Bước 3: Lựa chọn thiết bị mạng như switch, router, dây mạng.
+   </li>
+   <li>
+    Bước 4: Định cấu hình địa chỉ IP cho từng máy tính (IP tĩnh hoặc động).
+   </li>
+   <li>
+    Thiết bị chính:
+    <ul>
+     <li>
+      Switch: Kết nối các máy tính với nhau.
+     </li>
+     <li>
+      Router: Kết nối mạng LAN với Internet.
+     </li>
+     <li>
+      Dây mạng: Truyền dữ liệu giữa các thiết bị.
+     </li>
+     <li>
+      Máy chủ (nếu có): Quản lý tài nguyên chung như máy in, phần mềm.
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
+<h1>
+ Phần I. Câu hỏi trắc nghiệm nhiều lựa chọn A, B, C, D
+</h1>
+<p>
+ <strong>
+  * Mức độ biết
+ </strong>
+</p>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Học máy là lĩnh vực của ngành nào?
+</p>
+<ol>
+ <li>
+  Toán học
+ </li>
+ <li>
+  Mạng máy tính
+ </li>
+ <li>
+  <strong>
+   Trí tuệ nhân tạo
+  </strong>
+ </li>
+ <li>
+  Tin học văn phòng
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Mục tiêu chính của học máy là gì?
+</p>
+<ol>
+ <li>
+  <strong>
+   Dự đoán hoặc quyết định từ dữ liệu
+  </strong>
+ </li>
+ <li>
+  Lập trình các bước thủ công
+ </li>
+ <li>
+  Gắn nhãn dữ liệu
+ </li>
+ <li>
+  Gửi email tự động
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Trong học máy, dữ liệu có nhãn là:
+</p>
+<ol>
+ <li>
+  <strong>
+   Dữ liệu được gán nhãn hoặc giá trị đích
+  </strong>
+ </li>
+ <li>
+  Dữ liệu không có cấu trúc
+ </li>
+ <li>
+  Dữ liệu trống
+ </li>
+ <li>
+  Dữ liệu âm thanh
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Phương pháp học nào sử dụng dữ liệu có nhãn?
+</p>
+<ol>
+ <li>
+  <strong>
+   Học có giám sát
+  </strong>
+ </li>
+ <li>
+  Học không giám sát
+ </li>
+ <li>
+  Học sâu
+ </li>
+ <li>
+  Học truyền thống
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 5.
+ </strong>
+ Phân chia dữ liệu thành nhóm là ứng dụng của:
+</p>
+<ol>
+ <li>
+  Học có giám sát
+ </li>
+ <li>
+  <strong>
+   Học không giám sát
+  </strong>
+ </li>
+ <li>
+  Lập trình hướng đối tượng
+ </li>
+ <li>
+  Cơ sở dữ liệu
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 6.
+ </strong>
+ Chức năng của học máy trong phân tích thị trường là gì?
+</p>
+<ol>
+ <li>
+  Quản lý kho
+ </li>
+ <li>
+  Tính toán thuế
+ </li>
+ <li>
+  <strong>
+   Dự báo biến động giá và hỗ trợ chiến lược
+  </strong>
+ </li>
+ <li>
+  Tạo bản đồ
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 7.
+ </strong>
+ Ví dụ nào sau đây thuộc ứng dụng của học có giám sát?
+</p>
+<ol>
+ <li>
+  Phân chia khách hàng
+ </li>
+ <li>
+  <strong>
+   Nhận dạng chữ viết
+  </strong>
+ </li>
+ <li>
+  Xác định chủ đề
+ </li>
+ <li>
+  Khai thác dữ liệu chưa gán nhãn
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 8.
+ </strong>
+ Một trong những ứng dụng quan trọng của học máy trong chăm sóc sức khỏe là:
+</p>
+<ol>
+ <li>
+  Đếm bước đi
+ </li>
+ <li>
+  <strong>
+   Chẩn đoán bệnh
+  </strong>
+ </li>
+ <li>
+  Quản lý đơn thuốc
+ </li>
+ <li>
+  Tư vấn tài chính
+ </li>
+</ol>
+<h1>
+ Mức độ hiểu
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Vì sao học máy không cần lập trình chi tiết từng bước?
+</p>
+<ol>
+ <li>
+  Vì nó tự viết mã
+ </li>
+ <li>
+  Vì nó dùng AI
+ </li>
+ <li>
+  <strong>
+   Vì mô hình tự học từ dữ liệu
+  </strong>
+ </li>
+ <li>
+  Vì có bộ nhớ lớn
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Vai trò của dữ liệu có nhãn trong học có giám sát là gì?
+</p>
+<ol>
+ <li>
+  Không cần thiết
+ </li>
+ <li>
+  <strong>
+   Giúp mô hình học và dự đoán chính xác
+  </strong>
+ </li>
+ <li>
+  Làm mô hình đơn giản hơn
+ </li>
+ <li>
+  Giảm chi phí tính toán
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Dữ liệu không có nhãn giúp học máy thực hiện điều gì?
+</p>
+<ol>
+ <li>
+  <strong>
+   Phân tích thông tin ẩn và nhóm dữ liệu
+  </strong>
+ </li>
+ <li>
+  Tự động hóa gửi mail
+ </li>
+ <li>
+  Gán nhãn ngẫu nhiên
+ </li>
+ <li>
+  Tạo dữ liệu âm thanh
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Lý do học không giám sát phù hợp để phân khúc khách hàng là:
+</p>
+<ol>
+ <li>
+  Dữ liệu khách hàng luôn được gán nhãn
+ </li>
+ <li>
+  Không cần mô hình hóa
+ </li>
+ <li>
+  <strong>
+   Có thể phân nhóm từ các đặc điểm tương đồng
+  </strong>
+ </li>
+ <li>
+  Không cần xử lý dữ liệu
+ </li>
+</ol>
+<h1>
+ Mức độ vận dụng
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Một công ty muốn phân loại thư rác từ hộp thư đến. Họ nên dùng phương pháp học máy nào?
+</p>
+<ol>
+ <li>
+  Học không giám sát
+ </li>
+ <li>
+  <strong>
+   Học có giám sát
+  </strong>
+ </li>
+ <li>
+  Học sâu
+ </li>
+ <li>
+  Tìm kiếm tuần tự
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Để phát hiện gian lận trong giao dịch tài chính không có sẵn nhãn, nên dùng phương pháp nào?
+</p>
+<ol>
+ <li>
+  <strong>
+   Học không giám sát
+  </strong>
+ </li>
+ <li>
+  Học có giám sát
+ </li>
+ <li>
+  Học tăng cường
+ </li>
+ <li>
+  Xử lý ảnh
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 3.
+ </strong>
+ Một nhóm nghiên cứu muốn mô hình hóa mối quan hệ giữa đặc điểm bệnh nhân và nguy cơ bệnh tật để đưa ra dự đoán. Phương pháp phù hợp là:
+</p>
+<ol>
+ <li>
+  Học không giám sát
+ </li>
+ <li>
+  <strong>
+   Học có giám sát
+  </strong>
+ </li>
+ <li>
+  Phân loại không giám sát
+ </li>
+ <li>
+  Dò tìm chuỗi
+ </li>
+</ol>
+<p>
+ <strong>
+  Câu 4.
+ </strong>
+ Trong dịch tự động văn bản giữa các ngôn ngữ, học máy có thể:
+</p>
+<ol>
+ <li>
+  Tìm từ điển tương ứng
+ </li>
+ <li>
+  Dùng mẫu câu cố định
+ </li>
+ <li>
+  <strong>
+   Học từ dữ liệu dịch để xây dựng mô hình
+  </strong>
+ </li>
+ <li>
+  Sử dụng ngữ pháp cơ bản
+ </li>
+</ol>
+<h1>
+ Phần II. Câu hỏi trắc nghiệm Đúng/Sai a) b) c) d)
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Trong một công ty tài chính A, quản lý muốn nâng cấp hiệu quả công việc phân tích của nhân viên công ty nên quyết định sử dụng Học máy để giải quyết. Hãy chọn ý đúng sai cho việc sử dụng Học máy trong phân tích thị trường.
+</p>
+<ul>
+ <li>
+  <ol>
+   <li>
+    <strong>
+     Đưa ra dự báo biến động giá cả, trợ giúp hình thành các chiến lược kinh doanh dựa trên các mô hình dự đoán.
+    </strong>
+   </li>
+   <li>
+    <strong>
+     Giúp người đầu tư và nhà kinh doanh hiểu rõ hơn về thị trường, hỗ trợ khả năng đưa ra quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.
+    </strong>
+   </li>
+   <li>
+    Quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.
+   </li>
+   <li>
+    <strong>
+     Tự động hóá quá trình ra quyết định đầu tư.
+    </strong>
+   </li>
+  </ol>
+ </li>
+</ul>
+<p>
+ <strong>
+  Câu 2.
+ </strong>
+ Một học sinh đang tìm hiểu về phân loại dữ liệu trong học máy. Bạn ấy được yêu cầu xác định vai trò của dữ liệu có nhãn và phương pháp học phù hợp để lọc thư rác.
+</p>
+<p>
+ Cho các phát biểu sau, hãy xác định đâu là đúng:
+</p>
+<ol>
+ <li>
+  Dữ liệu có nhãn là dữ liệu đã được gán nhãn hoặc giá trị đầu ra.
+ </li>
+ <li>
+  <strong>
+   Học có giám sát sử dụng dữ liệu có nhãn để huấn luyện mô hình.
+  </strong>
+ </li>
+ <li>
+  Dữ liệu không có nhãn có thể dùng để dự đoán đầu ra cụ thể.
+ </li>
+ <li>
+  <strong>
+   Bài toán lọc thư rác là ứng dụng điển hình của học có giám sát.
+  </strong>
+ </li>
+</ol>
+<h1>
+ Phần III. Tự luận
+</h1>
+<p>
+ <strong>
+  Câu 1. Một công ty thương mại điện tử lớn
+ </strong>
+ muốn
+ <strong>
+  cá nhân hoá trải nghiệm mua sắm
+ </strong>
+ cho từng người dùng. Hiện tại, trang web chỉ hiển thị sản phẩm theo thứ tự phổ biến hoặc giá bán, không dựa trên sở thích cá nhân. Điều này dẫn đến tỷ lệ thoát trang cao và doanh thu từ người dùng cũ không tăng trưởng.
+</p>
+<p>
+ Công ty có lượng lớn dữ liệu người dùng như:
+</p>
+<ul>
+ <li>
+  <ul>
+   <li>
+    Lịch sử mua hàng,
+   </li>
+   <li>
+    Sản phẩm đã xem,
+   </li>
+   <li>
+    Sản phẩm đã thêm vào giỏ nhưng chưa mua,
+   </li>
+   <li>
+    Thời gian tương tác trên từng loại sản phẩm.
+   </li>
+  </ul>
+ </li>
+</ul>
+<p>
+ Hãy đề xuất giải pháp xây dựng hệ thống học máy giải quyết vấn đề trên.
+</p>
+<p>
+ <strong>
+  Trả lời:
+ </strong>
+</p>
+<ol>
+ <li>
+  <strong>
+   Thu thập và chuẩn hóa dữ liệu hành vi người dùng:
+  </strong>
+  Lấy dữ liệu từ các lần truy cập, sản phẩm đã xem/mua và thời gian tương tác để tạo
+  <strong>
+   hồ sơ người dùng
+  </strong>
+  .
+ </li>
+ <li>
+  <strong>
+   Áp dụng học không giám sát để phân nhóm người dùng (clustering):
+  </strong>
+  Dùng các thuật toán như K-means hoặc Hierarchical clustering để
+  <strong>
+   phân khúc người dùng
+  </strong>
+  dựa trên hành vi tương đồng.
+ </li>
+</ol>
+<p>
+ Ví dụ: nhóm thích đồ công nghệ, nhóm thích thời trang, nhóm mua vào khung giờ tối, v.v.
+</p>
+<ol>
+ <li>
+  <strong>
+   Tùy biến giao diện theo từng nhóm:
+  </strong>
+  Sau khi phân khúc, hiển thị các sản phẩm
+  <strong>
+   ưu tiên phù hợp với từng nhóm
+  </strong>
+  , giúp tăng tỷ lệ mua hàng.
+ </li>
+ <li>
+  <strong>
+   Liên tục cập nhật mô hình:
+  </strong>
+  Do hành vi người dùng có thể thay đổi theo thời gian, mô hình học máy cần được
+  <strong>
+   huấn luyện lại định kỳ
+  </strong>
+  để đảm bảo độ chính xác cao.
+ </li>
+</ol>
+<p>
+ <strong>
+  Phần I. Câu hỏi trắc nghiệm nhiều lựa chọn A, B, C, D
+ </strong>
+</p>
+<p>
+ <strong>
+  * Mức độ biết
+ </strong>
+</p>
+<p>
+ <strong>
+  Câu 1. Mục tiêu chính của khoa học dữ liệu là gì?
+ </strong>
+</p>
+<ul>
+ <li>
+  <ol>
+   <li>
+    Thu thập dữ liệu
+   </li>
+   <li>
+    Trực quan hóa dữ liệu
+   </li>
+   <li>
+    <strong>
+     Phân tích, khai phá và sử dụng tri thức từ dữ liệu
+    </strong>
+   </li>
+   <li>
+    Lưu trữ dữ liệu
+   </li>
+  </ol>
+ </li>
+</ul>
+<h1>
+ Câu 2. Toán học và thống kê hỗ trợ khoa học dữ liệu bằng cách nào?
+</h1>
+<ol>
+ <li>
+  Cung cấp các công cụ và kỹ thuật để xử lí, phân tích và khai phá dữ liệu
+ </li>
+ <li>
+  <strong>
+   Cung cấp cơ sở cho các phương pháp phân tích và khai phá dữ liệu
+  </strong>
+ </li>
+ <li>
+  Có vai trò quan trọng để hiểu ngữ cảnh và ý nghĩa của dữ liệu.
+ </li>
+ <li>
+  Trực quan hóa dữ liệu, tạo biểu đồ, thiết kế trang web
+ </li>
+</ol>
+<h1>
+ Câu 3. Dữ liệu lớn thường được đặc trưng bởi “năm chữ V”. Đó là gì?
+</h1>
+<ol>
+ <li>
+  <strong>
+   Khối lượng (Volumn), vận tốc (Velocity), sự đa dạng (Variety), giá trị (Value), tính xác thực (Veracity)
+  </strong>
+ </li>
+ <li>
+  Âm lượng (Volumn), vận tốc (Velocity), sự đa dạng (Variety), giá cả (Value), tính xác thực (Veracity)
+ </li>
+ <li>
+  Khối lượng (Volumn), vận tốc (Velocity), phân loại (Variety), giá trị (Value), tính xác thực (Veracity)
+ </li>
+ <li>
+  Khối lượng (Volumn), vận tốc (Velocity), phân loại (Variety), giá cả (Value), tính xác thực (Veracity)
+ </li>
+</ol>
+<h1>
+ Câu 4. Khối lượng dữ liệu lớn đề cập đến đặc trưng nào?
+</h1>
+<ol>
+ <li>
+  Sự đa dạng
+ </li>
+ <li>
+  Tốc độ
+ </li>
+ <li>
+  <strong>
+   Kích thước
+  </strong>
+ </li>
+ <li>
+  Tính xác thực
+ </li>
+</ol>
+<h1>
+ Câu 5. Khoa học máy tính đóng vai trò gì trong khoa học dữ liệu?
+</h1>
+<ol>
+ <li>
+  <strong>
+   Cung cấp các công cụ và kỹ thuật để xử lí, phân tích và khai phá dữ liệu
+  </strong>
+ </li>
+ <li>
+  Cung cấp cơ sở cho các phương pháp phân tích và khai phá dữ liệu
+ </li>
+ <li>
+  Có vai trò quan trọng để hiểu ngữ cảnh và ý nghĩa của dữ liệu.
+ </li>
+ <li>
+  Trực quan hóa dữ liệu, tạo biểu đồ, thiết kế trang web
+ </li>
+</ol>
+<h1>
+ Câu 6. "Veracity" trong dữ liệu lớn nói về điều gì?
+</h1>
+<ol>
+ <li>
+  Tốc độ dữ liệu được tạo ra
+ </li>
+ <li>
+  Nhiều loại dữ liệu khác nhau
+ </li>
+ <li>
+  Tính hữu ích của dữ liệu
+ </li>
+ <li>
+  <strong>
+   Sự cần thiết phải đảm bảo tính xác thực của dữ liệu
+  </strong>
+ </li>
+</ol>
+<h1>
+ Câu 7. Trực quan hóa dữ liệu nhằm mục đích gì?
+</h1>
+<ol>
+ <li>
+  Hiểu rõ về nội dung, cấu trúc dữ liệu
+ </li>
+ <li>
+  <strong>
+   Biểu diễn dữ liệu trực quan, dễ hiểu
+  </strong>
+ </li>
+ <li>
+  Xây dựng, duy trì hệ thống tổ chức dữ liệu một cách khoa học
+ </li>
+ <li>
+  Quản lí hiệu quả các nguồn dữ liệu
+ </li>
+</ol>
+<h1>
+ Câu 8. Để hiểu rõ giá trị sử dụng của dữ liệu trong thực tiễn, nhà khoa học dữ liệu cần kết hợp với yếu tố nào sau đây?
+</h1>
+<ol>
+ <li>
+  Thuật toán phân tích
+ </li>
+ <li>
+  Kỹ năng lập trình
+ </li>
+ <li>
+  <strong>
+   Tri thức chuyên ngành cụ thể
+  </strong>
+ </li>
+ <li>
+  Hệ điều hành phù hợp
+ </li>
+</ol>
+<h1>
+ Câu 9. Phân tích dữ liệu nhằm mục đích gì?
+</h1>
+<ol>
+ <li>
+  Cải thiện quyết định dựa trên dữ liệu
+ </li>
+ <li>
+  Biểu diễn dữ liệu trực quan, dễ hiểu
+ </li>
+ <li>
+  <strong>
+   Xác định các đặc điểm quan trọng, nhận diện nhóm và xu hướng trong dữ liệu
+  </strong>
+ </li>
+ <li>
+  Tìm ra mối quan hệ ẩn chứa trong dữ liệu
+ </li>
+</ol>
+<h1>
+ Câu 10. Y học cá nhân hóa ứng dụng Khoa học dữ liệu bằng cách nào?
+</h1>
+<ol>
+ <li>
+  Giới thiệu những sản phẩm hoặc nội dung mà khách hàng có thể quan tâm.
+ </li>
+ <li>
+  <strong>
+   Sử dụng bộ dữ liệu lớn về thông tin di truyền và y tế liên quan để đưa ra phát đồ điều trị phù hợp.
+  </strong>
+ </li>
+ <li>
+  Xem xét phản hồi khách hàng, có được những thông tin đầy đủ hơn về nhu cầu, sở thích và hành vi của họ giúp cải thiện trải nghiệm.
+ </li>
+ <li>
+  Sử dụng dữ liệu để cung cấp thông tin cho quá trình ra quyết định.
+ </li>
+</ol>
+<h1>
+ * Mức độ hiểu
+</h1>
+<p>
+ <strong>
+  Câu 11. Vì sao cần có tri thức chuyên ngành trong khoa học dữ liệu?
+ </strong>
+</p>
+<ol>
+ <li>
+  Để phân tích, khai phá dữ liệu và xây dựng các mô hình dự đoán.
+ </li>
+ <li>
+  <strong>
+   Để hiểu ngữ cảnh, ý nghĩa của dữ liệu và áp dụng kết quả phân tích chính xác
+  </strong>
+ </li>
+ <li>
+  Để kiểm tra giả thuyết, tính toán phân phối xác suất,…
+ </li>
+ <li>
+  Để xây dựng các thuật toán xử lí dữ liệu lớn một cách hiệu quả
+ </li>
+</ol>
+<h1>
+ Câu 12. Mối liên hệ giữa học máy (machine learning) và khoa học dữ liệu được mô tả như thế nào?
+</h1>
+<ol>
+ <li>
+  Học máy thay thế toàn bộ khoa học dữ liệu
+ </li>
+ <li>
+  <strong>
+   Học máy là công cụ trong khoa học dữ liệu để trích xuất tri thức từ dữ liệu
+  </strong>
+ </li>
+ <li>
+  Không liên quan
+ </li>
+ <li>
+  Khoa học dữ liệu chỉ là một nhánh của học máy
+ </li>
+</ol>
+<h1>
+ Câu 13. Vì sao việc tổ chức và quản lý dữ liệu quan trọng?
+</h1>
+<ol>
+ <li>
+  Tăng tính trực quan
+ </li>
+ <li>
+  Giảm lỗi người dùng
+ </li>
+ <li>
+  <strong>
+   Tạo hạ tầng vững chắc cho phân tích dữ liệu
+  </strong>
+ </li>
+ <li>
+  Giảm thời gian nhập dữ liệu
+ </li>
+</ol>
+<h1>
+ Câu 14. Tại sao trực quan hóa lại hữu ích trong khoa học dữ liệu?
+</h1>
+<ol>
+ <li>
+  Tạo hình ảnh đẹp từ việc phân tích dữ liệu
+ </li>
+ <li>
+  Để chia sẻ dữ liệu hỗ trợ quá trình ra quyết định
+ </li>
+ <li>
+  <strong>
+   Giúp người dùng không chuyên dễ hiểu dữ liệu
+  </strong>
+ </li>
+ <li>
+  Tăng dung lượng tệp lưu trữ dữ liệu
+ </li>
+</ol>
+<h1>
+ Câu 15. Khoa học dữ liệu giúp phát hiện gian lận như thế nào?
+</h1>
+<ol>
+ <li>
+  Tăng cường bảo mật trong các giao dịch tài chính
+ </li>
+ <li>
+  Gửi tin nhắn cảnh báo cho các đối tượng có hoạt động bất thường
+ </li>
+ <li>
+  <strong>
+   Phân tích mẫu giao dịch bất thường
+  </strong>
+ </li>
+ <li>
+  Khóa các tài khoản được cho là có các giao dịch bất thường.
+ </li>
+</ol>
+<h1>
+ * Mức độ vận dụng
+</h1>
+<p>
+ <strong>
+  Câu 16. Một doanh nghiệp bán lẻ có thể sử dụng Khoa học dữ liệu như thế nào để tăng doanh thu?
+ </strong>
+</p>
+<ol>
+ <li>
+  Điều chỉnh giá sản phẩm phù hợp với sự lên xuống của thị trường.
+ </li>
+ <li>
+  <strong>
+   Sử dụng hệ thống khuyến nghị dựa vào lịch sử mua hàng
+  </strong>
+ </li>
+ <li>
+  Mở thêm nhiều chi nhánh
+ </li>
+ <li>
+  Giảm bớt các nguyên liệu sản xuất tạo ra sản phẩm
+ </li>
+</ol>
+<h1>
+ Câu 17. Trong lĩnh vực y tế, khoa học dữ liệu có thể giúp gì cho bác sĩ?
+</h1>
+<ol>
+ <li>
+  Phán đoán không cần thực hiện các loại xét nghiệm
+ </li>
+ <li>
+  <strong>
+   Dự đoán kết quả điều trị dựa trên dữ liệu bệnh nhân
+  </strong>
+ </li>
+ <li>
+  Giảm lượng bệnh nhân
+ </li>
+ <li>
+  Bỏ qua bước kiểm tra sức khỏe tổng quát
+ </li>
+</ol>
+<h1>
+ Câu 18. Nếu dữ liệu của bạn thuộc nhiều dạng khác nhau như video, văn bản, và âm thanh, đặc trưng nào của dữ liệu lớn phù hợp nhất?
+</h1>
+<ol>
+ <li>
+  Vận tốc (Velocity)
+ </li>
+ <li>
+  Tính xác thức (Veracity)
+ </li>
+ <li>
+  <strong>
+   Sự đa dạng (Variety)
+  </strong>
+ </li>
+ <li>
+  Khối lượng (Volume)
+ </li>
+</ol>
+<h1>
+ Câu 19. Một trong những thách thức lớn nhất trong việc xử lý dữ liệu lớn là gì?
+</h1>
+<ol>
+ <li>
+  Dễ bị mất điện
+ </li>
+ <li>
+  <strong>
+   Sự đa dạng và tốc độ sinh ra dữ liệu
+  </strong>
+ </li>
+ <li>
+  Giá trị của dữ liệu quá rõ ràng
+ </li>
+ <li>
+  Không thể lưu trữ
+ </li>
+</ol>
+<h1>
+ Câu 20. Hệ thống khuyến nghị hoạt động hiệu quả nhất khi nào?
+</h1>
+<ol>
+ <li>
+  Khi có dữ liệu mô tả sản phẩm chính xác
+ </li>
+ <li>
+  <strong>
+   Khi người dùng để lại nhiều đánh giá và lịch sử hành vi
+  </strong>
+ </li>
+ <li>
+  Khi giảm số lượng sản phẩm
+ </li>
+ <li>
+  Khi có mạng xã hội
+ </li>
+</ol>
+<h1>
+ Phần II. Câu hỏi trắc nghiệm Đúng/Sai a) b) c) d)
+</h1>
+<p>
+ <strong>
+  Câu 1. Một công ty thương mại điện tử sử dụng Khoa học dữ liệu để phân tích lịch sử mua sắm và hành vi truy cập của khách hàng nhằm cá nhân hóa sản phẩm đề xuất. Câu hỏi đúng/sai:
+ </strong>
+</p>
+<ul>
+ <li>
+  <ol>
+   <li>
+    <strong>
+     Việc sử dụng dữ liệu lịch sử mua sắm giúp doanh nghiệp đề xuất sản phẩm phù hợp với khách hàng.
+    </strong>
+   </li>
+   <li>
+    Khoa học dữ liệu nên sử dụng dữ liệu văn bản khi phân tích hành vi người dùng.
+   </li>
+   <li>
+    <strong>
+     Trực quan hóa dữ liệu giúp doanh nghiệp dễ dàng nhìn nhận xu hướng và nhu cầu thị trường.
+    </strong>
+   </li>
+   <li>
+    Sử dụng công cụ học máy là đủ để ra quyết định kinh doanh mà không cần tri thức chuyên ngành.
+   </li>
+  </ol>
+ </li>
+</ul>
+<h1>
+ Câu 2. Một nhà máy sản xuất sử dụng các thuật toán Khoa học dữ liệu để tối ưu hóa hiệu quả sản xuất và phân bổ tài nguyên.
+</h1>
+<ol>
+ <li>
+  <strong>
+   Khoa học dữ liệu có thể hỗ trợ tối ưu hóa dây chuyền sản xuất bằng cách phân tích dữ liệu vận hành.
+  </strong>
+ </li>
+ <li>
+  Dữ liệu về sản lượng và năng suất không liên quan đến phân tích khoa học dữ liệu.
+ </li>
+ <li>
+  <strong>
+   Các công cụ lập trình và thư viện là một phần của khoa học máy tính được dùng trong phân tích dữ liệu.
+  </strong>
+ </li>
+ <li>
+  Mục tiêu của Khoa học dữ liệu là xây dựng hệ thống phần mềm mà không đề cập đến khả năng ra quyết định.
+ </li>
+</ol>
+<h1>
+ Phần III. Tự luận
+</h1>
+<p>
+ <strong>
+  Câu 1. Giải pháp Phân Tích Dữ Liệu Lớn trong Kinh Doanh - Tối Ưu Hóa Chiến Lược Marketing
+ </strong>
+</p>
+<p>
+ Một công ty lớn trong lĩnh vực bán lẻ muốn tối ưu hóa chiến lược marketing của mình bằng cách phân tích dữ liệu hành vi khách hàng trên website và các nền tảng xã hội. Họ thu thập một lượng lớn dữ liệu từ các nguồn khác nhau, bao gồm thông tin khách hàng, thói quen mua sắm, lượt xem sản phẩm, tương tác trên mạng xã hội, v.v. Tuy nhiên, việc xử lý và phân tích dữ liệu này một cách nhanh chóng và hiệu quả trở thành một thách thức, vì khối lượng dữ liệu là quá lớn và có sự phân tán giữa các hệ thống khác nhau.
+</p>
+<h1>
+ Trả lời: Để giải quyết vấn đề này, công ty có thể áp dụng một số giải pháp sau:
+</h1>
+<ul>
+ <li>
+  <ul>
+   <li>
+    Sử dụng công nghệ xử lý dữ liệu lớn (Big Data): Áp dụng các công nghệ như Hadoop, Spark để xử lý dữ liệu phân tán và hỗ trợ phân tích dữ liệu lớn một cách nhanh chóng, giúp việc xử lý và lưu trữ dữ liệu trở nên đơn giản hơn.
+   </li>
+   <li>
+    Ứng dụng thuật toán học máy (Machine Learning): Sử dụng các thuật toán học máy để phân tích hành vi của khách hàng, dự đoán xu hướng tiêu dùng và tối ưu hóa chiến lược marketing, giúp công ty đưa ra các quyết định chính xác và kịp thời.
+   </li>
+   <li>
+    Trực quan hóa dữ liệu: Sử dụng các công cụ trực quan hóa dữ liệu như Tableau hoặc Power BI để trình bày dữ liệu một cách sinh động và dễ hiểu. Điều này giúp các nhà quản lý và nhân viên marketing dễ dàng nhận ra các mẫu và xu hướng trong dữ liệu.
+   </li>
+  </ul>
+ </li>
+</ul>
+<p>
+ <strong>
+  Như vậy:
+ </strong>
+ Việc sử dụng công nghệ Big Data, thuật toán học máy và trực quan hóa dữ liệu sẽ giúp công ty xử lý và phân tích dữ liệu khách hàng một cách nhanh chóng và hiệu quả. Các công cụ và giải pháp này sẽ giúp công ty tối ưu hóa chiến lược marketing, nâng cao hiệu quả bán hàng và mang lại lợi nhuận cao hơn. Việc áp dụng các giải pháp máy tính và thuật toán trong quản lý dữ liệu lớn đã trở thành một yếu tố quan trọng trong chiến lược kinh doanh hiện đại.
+</p>
+<p>
+ <strong>
+  Phần I. Câu hỏi trắc nghiệm nhiều lựa chọn A, B, C, D
+ </strong>
+</p>
+<p>
+ <strong>
+  * Mức độ biết
+ </strong>
+</p>
+<p>
+ <strong>
+  Câu 1. Vai trò chính của máy tính trong quy trình khoa học dữ liệu là gì?
+ </strong>
+</p>
+<ol>
+ <li>
+  Triển khai các dự án khoa học dữ liệu
+ </li>
+ <li>
+  Chuyển đổi dữ liệu thành tri thức và thông tin hữu ích
+ </li>
+ <li>
+  Cung cấp sức mạnh tính toán, lưu trữ và tự động hóa
+ </li>
+ <li>
+  Xử lí dữ liệu có kích thước lớn
+ </li>
+</ol>
+<h1>
+ Câu 2. Giai đoạn nào sau đây không nằm trong quy trình khoa học dữ liệu?
+</h1>
+<ol>
+ <li>
+  Thu thập dữ liệu
+ </li>
+ <li>
+  Lập trình trang web
+ </li>
+ <li>
+  Khám phá tri thức
+ </li>
+ <li>
+  Báo cáo kết quả
+ </li>
+</ol>
+<h1>
+ Câu 3. Phát biểu nào sau đây đúng về vai trò của máy tính trong trực quan hóa dữ liệu?
+</h1>
+<ol>
+ <li>
+  Máy tính hỗ trợ tạo ra các bảng tính để thống kê dữ liệu một cách trực quan.
+ </li>
+ <li>
+  Máy tính không có vai trò lớn
+ </li>
+ <li>
+  Máy tính hỗ trợ tạo ra các biểu diễn dữ liệu trực quan
+ </li>
+ <li>
+  Máy tính dùng để lưu trữ dữ liệu trực quan
+ </li>
+</ol>
+<h1>
+ Câu 4. Công nghệ nào cho phép xử lý dữ liệu mà không cần đầu tư phần cứng và những cơ sở hạ tầng đắt tiền?
+</h1>
+<ol>
+ <li>
+  Hệ điều hành
+ </li>
+ <li>
+  Phần mềm kế toán
+ </li>
+ <li>
+  Điện toán đám mây
+ </li>
+ <li>
+  Ổ đĩa di động
+ </li>
+</ol>
+<h1>
+ Câu 5. Máy giải trình tự gene thường chỉ xác định được:
+</h1>
+<ol>
+ <li>
+  Toàn bộ hệ gene
+ </li>
+ <li>
+  Vị trí của từng gene
+ </li>
+ <li>
+  Các đoạn nucleotide ngắn
+ </li>
+ <li>
+  Vị trí của các đoạn nucleotide trên hệ gene
+ </li>
+</ol>
+<h1>
+ Câu 6. Đâu là một ứng dụng của xử lý song song?
+</h1>
+<ol>
+ <li>
+  Làm sạch dữ liệu và huấn luyện mô hình.
+ </li>
+ <li>
+  Tăng tốc phân tích dữ liệu lớn
+ </li>
+ <li>
+  Cung cấp tài nguyên tính toán
+ </li>
+ <li>
+  Cài đặt phần mềm
+ </li>
+</ol>
+<h1>
+ Câu 7. Lợi ích chính của việc tự động hóa trong khoa học dữ liệu là gì?
+</h1>
+<ol>
+ <li>
+  Giúp tăng số lượng nhân viên
+ </li>
+ <li>
+  Tạo ra nhiều báo cáo giấy
+ </li>
+ <li>
+  Giảm lỗi thủ công và tăng tốc xử lý
+ </li>
+ <li>
+  Giảm yêu cầu về dữ liệu
+ </li>
+</ol>
+<h1>
+ Câu 8. Lưu trữ dữ liệu của HGP gặp thách thức vì:
+</h1>
+<ol>
+ <li>
+  Dữ liệu dễ mất
+ </li>
+ <li>
+  Thiếu điện
+ </li>
+ <li>
+  Khối lượng dữ liệu quá lớn
+ </li>
+ <li>
+  Không có người lưu
+ </li>
+</ol>
+<h1>
+ Câu 9. Tính năng nào của máy tính giúp phân tích dữ liệu theo thời gian thực?
+</h1>
+<ol>
+ <li>
+  Giao diện người dùng đẹp
+ </li>
+ <li>
+  Khả năng xử lý nhanh và mạnh
+ </li>
+ <li>
+  Phần mềm gõ văn bản
+ </li>
+ <li>
+  Màn hình độ phân giải cao
+ </li>
+</ol>
+<h1>
+ Câu 10. Một lợi ích của phân tích thời gian thực trong dự án khoa học là gì?
+</h1>
+<ol>
+ <li>
+  Có thêm thời gian nghỉ
+ </li>
+ <li>
+  Giảm độ chính xác
+ </li>
+ <li>
+  Ra quyết định nhanh chóng
+ </li>
+ <li>
+  Không cần kiểm tra kết quả
+ </li>
+</ol>
+<h1>
+ * Mức độ hiểu
+</h1>
+<p>
+ <strong>
+  Câu 11. Nếu không có máy tính, bước nào sau đây trong phân tích dữ liệu sẽ bị ảnh hưởng nhiều nhất?
+ </strong>
+</p>
+<ol>
+ <li>
+  Thu thập dữ liệu từ người
+ </li>
+ <li>
+  Vẽ hình minh họa
+ </li>
+ <li>
+  Huấn luyện mô hình học máy
+ </li>
+ <li>
+  Tạo thư mục
+ </li>
+</ol>
+<h1>
+ Câu 12. Nếu không có điện toán đám mây, hạn chế lớn nhất với các nhà nghiên cứu nhỏ lẻ là gì?
+</h1>
+<ol>
+ <li>
+  Không thể gặp nhau
+ </li>
+ <li>
+  Không có phần mềm
+ </li>
+ <li>
+  Thiếu tài nguyên phần cứng để xử lý dữ liệu
+ </li>
+ <li>
+  Không hiểu thuật toán
+ </li>
+</ol>
+<h1>
+ Câu 13. Lưu trữ hàng trăm gigabyte dữ liệu đòi hỏi:
+</h1>
+<ol>
+ <li>
+  Bộ nhớ RAM lớn
+ </li>
+ <li>
+  Ổ cứng di động cá nhân
+ </li>
+ <li>
+  Cơ sở hạ tầng lưu trữ quy mô lớn
+ </li>
+ <li>
+  Sách vở
+ </li>
+</ol>
+<h1>
+ Câu 14. Việc huấn luyện mô hình học máy yêu cầu nhất điều gì dưới đây?
+</h1>
+<ol>
+ <li>
+  Hình ảnh đẹp
+ </li>
+ <li>
+  Tài nguyên tính toán lớn và dữ liệu chất lượng
+ </li>
+ <li>
+  Thiết kế dễ nhìn
+ </li>
+ <li>
+  File PDF
+ </li>
+</ol>
+<h1>
+ Câu 15. Một nhà khoa học dữ liệu muốn đảm bảo kết quả có thể lặp lại, cần?
+</h1>
+<ol>
+ <li>
+  Ghi nhớ trong đầu
+ </li>
+ <li>
+  Ghi vào giấy
+ </li>
+ <li>
+  Dùng quy trình tự động và công cụ kiểm thử
+ </li>
+ <li>
+  Tạo ảnh minh họa
+ </li>
+</ol>
+<h1>
+ * Mức độ vận dụng
+</h1>
+<p>
+ <strong>
+  Câu 16. Khi xây dựng một mô hình học máy trên dữ liệu lớn, yếu tố nào sau đây cần ưu tiên?
+ </strong>
+</p>
+<ol>
+ <li>
+  Thiết kế website đẹp
+ </li>
+ <li>
+  Khả năng tính toán và lưu trữ dữ liệu
+ </li>
+ <li>
+  Chia sẻ trên mạng xã hội
+ </li>
+ <li>
+  Thiết kế đồ họa
+ </li>
+</ol>
+<h1>
+ Câu 17. Muốn tăng tốc quá trình huấn luyện mô hình AI, bạn nên áp dụng?
+</h1>
+<ol>
+ <li>
+  Viết tay dữ liệu
+ </li>
+ <li>
+  Dùng bộ xử lý song song hoặc GPU
+ </li>
+ <li>
+  Thêm hình ảnh nền
+ </li>
+ <li>
+  Sử dụng máy in
+ </li>
+</ol>
+<h1>
+ Câu 18. Trong dự án HGP, việc nào sau đây thể hiện rõ tính “tích hợp dữ liệu”?
+</h1>
+<ol>
+ <li>
+  Một nhóm tự làm tất cả
+ </li>
+ <li>
+  Nhiều tổ chức cùng chia sẻ dữ liệu gene
+ </li>
+ <li>
+  Dùng bảng tính đơn giản
+ </li>
+ <li>
+  Sử dụng máy ảnh
+ </li>
+</ol>
+<h1>
+ Câu 19. Vì sao cần sử dụng các thuật toán có khả năng mở rộng khi xử lý dữ liệu di truyền?
+</h1>
+<ol>
+ <li>
+  Dễ học hơn
+ </li>
+ <li>
+  Dùng cho mọi môn học
+ </li>
+ <li>
+  Đáp ứng quy mô dữ liệu ngày càng lớn
+ </li>
+ <li>
+  Không có lý do
+ </li>
+</ol>
+<h1>
+ Câu 20. Nếu bạn cần trực quan hóa xu hướng tăng trưởng qua nhiều năm, bạn nên dùng công cụ nào?
+</h1>
+<ol>
+ <li>
+  Bộ xử lý văn bản
+ </li>
+ <li>
+  Thư viện trực quan hóa như Matplotlib, Tableau
+ </li>
+ <li>
+  Công cụ chat
+ </li>
+ <li>
+  Máy tính bỏ túi
+ </li>
+</ol>
+<h1>
+ Phần II. Câu hỏi trắc nghiệm Đúng/Sai a) b) c) d)
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Một nhóm các nhà khoa học từ nhiều quốc gia cùng nhau tham gia HGP. Mỗi nhóm phụ trách giải mã một phần gene khác nhau, dữ liệu được chia sẻ qua nền tảng số và hợp nhất để hoàn chỉnh bản đồ gene người.
+</p>
+<ul>
+ <li>
+  <ol>
+   <li>
+    HGP là dự án chỉ do Mỹ thực hiện và không cần sự hợp tác quốc tế.
+   </li>
+   <li>
+    Việc tích hợp dữ liệu từ nhiều nhóm giúp hoàn chỉnh bản đồ gene người nhanh và hiệu quả hơn.
+   </li>
+   <li>
+    Việc dùng nền tảng điện toán đám mây đã giúp các nhà khoa học dễ dàng chia sẻ và truy cập dữ liệu di truyền mọi lúc, mọi nơi.
+   </li>
+   <li>
+    Nếu không có công nghệ lưu trữ và xử lý dữ liệu hiện đại, khối lượng dữ liệu hàng trăm gigabyte của HGP sẽ gây quá tải và gián đoạn quá trình nghiên cứu.
+   </li>
+  </ol>
+ </li>
+</ul>
+<p>
+ <strong>
+  Câu 2. Phân tích dữ liệu thời gian thực trong dịch tễ học:
+ </strong>
+ Cô Lan là nhà khoa học dữ liệu trong lĩnh vực y tế công cộng. Cô theo dõi sự lây lan của một bệnh truyền nhiễm qua các khu vực và dùng mô hình để dự đoán điểm nóng trong tương lai nhằm đưa ra biện pháp kịp thời.
+</p>
+<ol>
+ <li>
+  Cô Lan có thể sử dụng biểu đồ và bản đồ nhiệt để trực quan hóa dữ liệu lây nhiễm theo thời gian thực.
+ </li>
+ <li>
+  Dữ liệu thời gian thực luôn sẵn sàng và không bao giờ bị thiếu sót.
+ </li>
+ <li>
+  Cô Lan xây dựng một dashboard (bảng điều khiển) tương tác để theo dõi sự lan truyền dịch bệnh theo từng khu vực cụ thể.
+ </li>
+ <li>
+  Nếu không có thuật toán có khả năng mở rộng, hệ thống phân tích sẽ bị chậm trễ khi số lượng điểm dữ liệu tăng đột biến theo thời gian.
+ </li>
+</ol>
+<h1>
+ Phần III. Tự luận
+</h1>
+<p>
+ <strong>
+  Câu 1.
+ </strong>
+ Nêu giải pháp để ứng phó với dịch bệnh nhờ dữ liệu thời gian thực, giúp cơ quan y tế phản ứng nhanh, chính xác và có cơ sở khoa học trong việc ra quyết định phòng chống dịch.
+</p>
+<p>
+ <strong>
+  Trả lời:
+ </strong>
+</p>
+<ul>
+ <li>
+  <strong>
+   Xây dựng hệ thống thu thập dữ liệu tự động theo thời gian thực
+  </strong>
+  (Thiết lập biểu mẫu số hóa tại các trạm y tế, kết nối về một trung tâm quản lý dữ liệu. Dữ liệu được cập nhật liên tục (thời gian thực hoặc theo đợt) từ các điểm giám sát.)
+ </li>
+ <li>
+  <strong>
+   Ứng dụng công cụ trực quan hóa dữ liệu
+  </strong>
+  (Dùng bản đồ nhiệt (heatmaps), biểu đồ, đồ thị để hiển thị mức độ lây lan dịch bệnh theo khu vực. Tạo dashboard tương tác giúp lãnh đạo y tế theo dõi biến động ca bệnh ngay lập tức.)
+ </li>
+ <li>
+  <strong>
+   Tích hợp mô hình dự báo dịch tễ học
+  </strong>
+  (Áp dụng các mô hình học máy hoặc toán học (ví dụ: SIR, SEIR) để dự đoán xu hướng dịch bệnh. Cảnh báo sớm các “điểm nóng” giúp chủ động phân bổ nguồn lực và triển khai phòng chống.)
+ </li>
+ <li>
+  <strong>
+   Tối ưu hiệu năng hệ thống (
+  </strong>
+  Đảm bảo nền tảng xử lý dữ liệu có khả năng mở rộng, không bị nghẽn khi dữ liệu tăng đột biến. Sử dụng hạ tầng mạnh như HPC hoặc cloud để giữ ổn định khi dịch lan rộng.)
+ </li>
+</ul>

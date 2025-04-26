@@ -348,11 +348,13 @@
       {
         "text": "Sử dụng Wi-Fi kết hợp bộ khuếch đại sóng",
         "correct": true
-      },
-      {
-        "text": "Cáp quang là lựa chọn phù hợp nhất vì giá rẻ và dễ lắp đặt trong khuôn viên trường học.Việc sử dụng Wi-Fi giúp học sinh kết nối linh hoạt, đặc biệt là với thiết bị di động như laptop, điện thoại.Có thể kết hợp đường truyền có dây cho phòng máy và đường truyền không dây cho khu vực học sinh sử dụng thiết bị cá nhân.Chỉ cần một thiết bị phát Wi-Fi đặt tại phòng bảo vệ là đủ để phủ sóng toàn bộ khuôn viên trường.",
-        "correct": true
-      },
+      }
+    ]
+  },
+  {
+    "type": "true_false",
+    "question": "Một trường THPT đang triển khai hệ thống mạng nội bộ để phục vụ việc dạy học trực tuyến và truy cập Internet. Trường có nhiều phòng học ở các tầng khác nhau, đồng thời cần đảm bảo tốc độ truy cập ổn định và chi phí hợp lí.",
+    "options": [
       {
         "text": "Cáp quang là lựa chọn phù hợp nhất vì giá rẻ và dễ lắp đặt trong khuôn viên trường học.",
         "correct": false
@@ -1144,10 +1146,6 @@
     "question": "Trong một công ty tài chính A, quản lý muốn nâng cấp hiệu quả công việc phân tích của nhân viên công ty nên quyết định sử dụng Học máy để giải quyết. Hãy chọn ý đúng sai cho việc sử dụng Học máy trong phân tích thị trường.",
     "options": [
       {
-        "text": "Đưa ra dự báo biến động giá cả, trợ giúp hình thành các chiến lược kinh doanh dựa trên các mô hình dự đoán.Giúp người đầu tư và nhà kinh doanh hiểu rõ hơn về thị trường, hỗ trợ khả năng đưa ra quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.Quyết định đầu tư dựa trên thông tin và các phân tích kĩ thuật.Tự động hóá quá trình ra quyết định đầu tư.",
-        "correct": true
-      },
-      {
         "text": "Đưa ra dự báo biến động giá cả, trợ giúp hình thành các chiến lược kinh doanh dựa trên các mô hình dự đoán.",
         "correct": true
       },
@@ -1191,10 +1189,6 @@
     "type": "multiple",
     "question": "Mục tiêu chính của khoa học dữ liệu là gì?",
     "options": [
-      {
-        "text": "Thu thập dữ liệuTrực quan hóa dữ liệuPhân tích, khai phá và sử dụng tri thức từ dữ liệuLưu trữ dữ liệu",
-        "correct": true
-      },
       {
         "text": "Thu thập dữ liệu",
         "correct": false
@@ -1635,10 +1629,6 @@
     "type": "true_false",
     "question": "Một công ty thương mại điện tử sử dụng Khoa học dữ liệu để phân tích lịch sử mua sắm và hành vi truy cập của khách hàng nhằm cá nhân hóa sản phẩm đề xuất. Câu hỏi đúng/sai:",
     "options": [
-      {
-        "text": "Việc sử dụng dữ liệu lịch sử mua sắm giúp doanh nghiệp đề xuất sản phẩm phù hợp với khách hàng.Khoa học dữ liệu nên sử dụng dữ liệu văn bản khi phân tích hành vi người dùng.Trực quan hóa dữ liệu giúp doanh nghiệp dễ dàng nhìn nhận xu hướng và nhu cầu thị trường.Sử dụng công cụ học máy là đủ để ra quyết định kinh doanh mà không cần tri thức chuyên ngành.",
-        "correct": true
-      },
       {
         "text": "Việc sử dụng dữ liệu lịch sử mua sắm giúp doanh nghiệp đề xuất sản phẩm phù hợp với khách hàng.",
         "correct": true
@@ -2123,10 +2113,6 @@
     "type": "true_false",
     "question": "Một nhóm các nhà khoa học từ nhiều quốc gia cùng nhau tham gia HGP. Mỗi nhóm phụ trách giải mã một phần gene khác nhau, dữ liệu được chia sẻ qua nền tảng số và hợp nhất để hoàn chỉnh bản đồ gene người.",
     "options": [
-      {
-        "text": "HGP là dự án chỉ do Mỹ thực hiện và không cần sự hợp tác quốc tế.Việc tích hợp dữ liệu từ nhiều nhóm giúp hoàn chỉnh bản đồ gene người nhanh và hiệu quả hơn.Việc dùng nền tảng điện toán đám mây đã giúp các nhà khoa học dễ dàng chia sẻ và truy cập dữ liệu di truyền mọi lúc, mọi nơi.Nếu không có công nghệ lưu trữ và xử lý dữ liệu hiện đại, khối lượng dữ liệu hàng trăm gigabyte của HGP sẽ gây quá tải và gián đoạn quá trình nghiên cứu.",
-        "correct": false
-      },
       {
         "text": "HGP là dự án chỉ do Mỹ thực hiện và không cần sự hợp tác quốc tế.",
         "correct": false
